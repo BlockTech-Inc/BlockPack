@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "crc:item/invis" },
+        "type=top": { "model": "crc:item/invis" },
+        "type=double": { "model": "crc:item/invis" }
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potato"
+  },
+  "overrides": [
+    {
+      "predicate":{"custom_model_data":1},
+      "model":"sdv:item/crops/potato"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"sdv:item/crops/yam"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"sdv:item/forage/chanterelle"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"sdv:item/forage/common_mushroom"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"sdv:item/forage/hazelnut"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"sdv:item/forage/morel"
+    },
+    {
+      "predicate":{"custom_model_data":7},
+      "model":"sdv:item/forage/snow_yam"
+    },
+    {
+      "predicate":{"custom_model_data":8},
+      "model":"sdv:item/forage/wild_horseradish"
+    },
+    {
+      "predicate":{"custom_model_data":9},
+      "model":"sdv:item/forage/winter_root"
+    },
+    {
+      "predicate":{"custom_model_data":10},
+      "model":"sdv:item/crops/giant_crops/giant_cauliflower"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/tnt",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1014001 }, "model": "crc:ui/blank" },
+		{ "predicate": { "custom_model_data": 1014002 }, "model": "crc:ui/gui" },
+		{ "predicate": { "custom_model_data": 1014003 }, "model": "crc:ui/button" }
+	]
+}

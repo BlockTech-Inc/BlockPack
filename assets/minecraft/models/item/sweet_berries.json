@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/sweet_berries"
+  },
+  "overrides": [
+    {
+      "predicate": {"custom_model_data":1},
+      "model":"sdv:item/crops/blueberry"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"sdv:item/crops/cranberries"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"sdv:item/crops/grape"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"sdv:item/crops/strawberry"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"sdv:item/fish/roe"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"sdv:item/forage/blackberry"
+    },
+    {
+      "predicate":{"custom_model_data":7},
+      "model":"sdv:item/forage/crystal_fruit"
+    },
+    {
+      "predicate":{"custom_model_data":8},
+      "model":"sdv:item/forage/salmonberry"
+    },
+    {
+      "predicate":{"custom_model_data":9},
+      "model":"sdv:item/forage/spice_berry"
+    },
+    {
+      "predicate":{"custom_model_data":10},
+      "model":"sdv:item/movie/sour_slimes"
+    }
+  ]
+}

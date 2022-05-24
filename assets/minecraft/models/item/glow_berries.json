@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glow_berries"
+  },
+  "overrides": [
+    {
+      "predicate":{"custom_model_data":1},
+      "model":"sdv:item/crops/ancient_fruit"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"sdv:item/crop/starfruit"
+    }
+  ]
+}

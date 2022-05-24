@@ -1,0 +1,48 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/cooked_cod"
+    },
+    "overrides": [
+        {
+            "predicate": { "custom_model_data": 1 },
+            "model": "sdv:item/cooking/baked_fish"
+        },
+        {
+            "predicate": {"custom_model_data": 2},
+            "model": "sdv:item/cooking/carp_surprise"
+        },
+        {
+            "predicate": {"custom_model_data": 3},
+            "model": "sdv:item/cooking/crab_cakes"
+        },
+        {
+            "predicate":{"custom_model_data":4},
+            "model":"sdv:item/cooking/crispy_bass"
+        },
+        {
+            "predicate":{"custom_model_data":5},
+            "model":"sdv:item/cooking/dish_o-_the_sea"
+        },
+        {
+            "predicate":{"custom_model_data":6},
+            "model":"sdv:item/cooking/fried_calamari"
+        },
+        {
+            "predicate":{"custom_model_data":7},
+            "model":"sdv:item/cooking/fried_eel"
+        },
+        {
+            "predicate":{"custom_model_data":8},
+            "model":"sdv:item/cooking/shrimp_cocktail"
+        },
+        {
+            "predicate":{"custom_model_data":9},
+            "model":"sdv:item/cooking/spicy_eel"
+        },
+        {
+            "predicate":{"custom_model_data":10},
+            "model":"sdv:item/fish/crab"
+        }
+    ]
+}

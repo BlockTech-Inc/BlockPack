@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:item/_parent_bowl",
+  "textures": {
+    "layer0": "minecraft:item/mushroom_stew",
+    "particle": "minecraft:item/transparent"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "sdv:item/cooking/bean_hotpot"
+    },
+    {
+      "predicate": {"custom_model_data": 2},
+      "model": "sdv:item/cooking/chowder"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"sdv:item/cooking/fried_mushroom"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"sdv:item/cooking/pale_broth"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"sdv:item/cooking/parsnip_soup"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"sdv:item/cooking/pumpkin_soup"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "sdv:item/cooking/mango_sticky_rice"
+    },
+    {
+      "predicate":{"custom_model_data":8},
+      "model":"sdv:item/cooking/rice_pudding"
+    },
+    {
+      "predicate":{"custom_model_data":9},
+      "model":"sdv:item/cooking/tropical_curry"
+    },
+    {
+      "predicate":{"custom_model_data":10},
+      "model":"sdv:item/forage/purple_mushroom"
+    },
+    {
+      "predicate":{"custom_model_data":11},
+      "model":"sdv:item/movie/hummus_snack_pack"
+    },
+    {
+      "predicate":{"custom_model_data":12},
+      "model":"sdv:item/movie/stardrop_sorbet"
+    }
+  ]
+}

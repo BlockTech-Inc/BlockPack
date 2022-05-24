@@ -1,0 +1,302 @@
+{
+    "music.core.start": {
+        "sounds": [
+            {
+                "name": "lab:music/core_start",
+                "stream": true
+            }
+        ]
+    },
+    "music.title": {
+        "sounds": [
+            {
+                "name": "lab:music/title",
+                "stream": true
+            }
+        ]
+    },
+    "ambient.airlock.button": {
+        "subtitle": "click",
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/button"
+            }
+        ]
+    },
+    "ambient.airlock.door.close": {
+        "subtitle": "Door Closes",
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/door_close"
+            }
+        ]
+    },
+    "ambient.airlock.door.open": {
+        "subtitle": "Door Opens",
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/door_open"
+            }
+        ]
+    },
+    "ambient.airlock.flow": {
+        "subtitle": "Airlock Cycles",
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/flow",
+                "stream": true
+            }
+        ]
+    },
+    "ambient.alarm1": {
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm1"
+            }
+        ]
+    },
+    "ambient.alarm2": {
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm2"
+            }
+        ]
+    },
+    "ambient.alarm3": {
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm3"
+            }
+        ]
+    },
+    "ambient.alarm4": {
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm4"
+            }
+        ]
+    },
+    "ambient.alarm5": {
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm5"
+            }
+        ]
+    },
+    "ambient.bounce": {
+        "sounds": [
+            {
+                "name": "lab:ambient/bounce"
+            }
+        ]
+    },
+    "ambient.psssh": {
+        "subtitle": "§opsssh",
+        "sounds": [
+            {
+                "name": "lab:ambient/psssh"
+            }
+        ]
+    },
+    "ambient.button.computer1": {
+        "subtitle": "Computer Beeps",
+        "sounds": [
+            {
+                "name": "lab:ambient/button/computer/c1_b1"
+            },
+            {
+                "name": "lab:ambient/button/computer/c1_b2"
+            },
+            {
+                "name": "lab:ambient/button/computer/c1_b3"
+            }
+        ]
+    },
+    "ambient.button.computer2": {
+        "subtitle": "Computer Beeps",
+        "sounds": [
+            {
+                "name": "lab:ambient/button/computer/c2_b1"
+            },
+            {
+                "name": "lab:ambient/button/computer/c2_b2"
+            },
+            {
+                "name": "lab:ambient/button/computer/c2_b3"
+            }
+        ]
+    },
+    "ambient.motor": {
+        "sounds": [
+            {
+                "name": "lab:ambient/motor"
+            }
+        ]
+    },
+    "ambient.heli": {
+        "sounds": [
+            {
+                "name": "lab:ambient/heli",
+                "stream": true
+            }
+        ]
+    },
+    "ambient.flush": {
+        "subtitle": "Toilet Flushes",
+        "sounds": [
+            {
+                "name": "lab:ambient/flush"
+            }
+        ]
+    },
+    "ambient.jet": {
+        "sounds": [
+            {
+                "name": "lab:ambient/jet"
+            }
+        ]
+    },
+    "ambient.radio-chatter": {
+        "sounds": [
+            {
+                "name": "lab:ambient/radio-chatter"
+            }
+        ]
+    },
+    "ambient.core.hum": {
+        "subtitle": "Core Hums",
+        "sounds": [
+            {
+                "name": "lab:ambient/corehum"
+            }
+        ]
+    },
+    "ambient.gotowarp": {
+        "sounds": [
+            {
+                "name": "lab:ambient/gotowarp"
+            }
+        ]
+    },
+    "ambient.power.on": {
+        "sounds": [
+            {
+                "name": "lab:ambient/power_on"
+            }
+        ]
+    },
+    "ambient.power.off": {
+        "sounds": [
+            {
+                "name": "lab:ambient/power_off"
+            }
+        ]
+    },
+    "ambient.pumps": {
+        "sounds": [
+            {
+                "name": "lab:ambient/pumps"
+            }
+        ]
+    },
+    "ambient.airlock.broken_cycle": {
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/broken_cycle"
+            }
+        ]
+    },
+    "ambient.bwoom": {
+        "sounds": [
+            {
+                "name": "lab:ambient/bwoom"
+            }
+        ]
+    },
+    "ambient.core.hum-2": {
+        "sounds": [
+            {
+                "name": "lab:ambient/core-ambient-alt"
+            }
+        ]
+    },
+    "ambient.laser": {
+        "sounds": [
+            {
+                "name": "lab:ambient/laser"
+            }
+        ]
+    },
+    "ambient.fan": {
+        "sounds": [
+            {
+                "name": "lab:ambient/fan"
+            }
+        ]
+    },
+    "music.archives": {
+        "sounds": [
+            {
+                "name": "lab:music/archives",
+                "stream": true
+            }
+        ]
+    },
+    "music.gerudo_valley": {
+        "sounds": [
+            {
+                "name": "lab:music/gerudo_valley",
+                "stream": true
+            }
+        ]
+    },
+    "ambient.how-does-it-work": {
+        "sounds": [
+            {
+                "name": "lab:ambient/how-does-it-work"
+            }
+        ]
+    },
+    "music.escape":{
+        "sounds": [
+            {
+                "name": "lab:music/escape",
+                "stream": true
+            }
+        ]
+    },
+    "music.speedy-comet":{
+        "sounds": [
+            {
+                "name": "lab:music/speedy-comet",
+                "stream": true
+            }
+        ]
+    },
+    "voice.evacuation_prep":{
+        "sounds": [
+            {
+                "name": "lab:voice/evacuation_prep"
+            }
+        ]
+    },
+    "voice.no_safeguards":{
+        "sounds": [
+            {
+                "name": "lab:voice/no_safeguards"
+            }
+        ]
+    },
+    "voice.shitpost_1":{
+        "sounds": [
+            {
+                "name": "lab:voice/shitpost_1"
+            }
+        ]
+    }
+}

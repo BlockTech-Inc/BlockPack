@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/lava_bucket"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1370001}, "model": "buildmodeone:3d_editor/halloween/candlelit"},
+		{"predicate": {"custom_model_data":1370002}, "model": "buildmodeone:3d_editor/halloween/candlelitsmall"},
+		{"predicate": {"custom_model_data":1370003}, "model": "buildmodeone:3d_editor/halloween/candlelitbig"},
+		{"predicate": {"custom_model_data":1370004}, "model": "buildmodeone:3d_editor/lighting/desklamp"},
+		{"predicate": {"custom_model_data":1370005}, "model": "buildmodeone:3d_editor/lighting/empty"},
+		{"predicate": {"custom_model_data":1370006}, "model": "buildmodeone:3d_editor/lighting/bar"},
+		{"predicate": {"custom_model_data":1370007}, "model": "buildmodeone:3d_editor/lighting/bar2"},
+		{"predicate": {"custom_model_data":1370008}, "model": "buildmodeone:3d_editor/lighting/bar3"},
+		{"predicate": {"custom_model_data":1370009}, "model": "buildmodeone:3d_editor/lighting/bar4"},
+		{"predicate": {"custom_model_data":1370010}, "model": "buildmodeone:3d_editor/bathroom/mirror_lamp"},
+		{"predicate": {"custom_model_data":1370011}, "model": "buildmodeone:3d_editor/lighting/desklamp2"},
+		{"predicate": {"custom_model_data":1370012}, "model": "buildmodeone:3d_editor/lighting/desklamp3"},
+		
+		{"predicate": {"custom_model_data":1370013}, "model": "buildmodeone:3d_editor/update"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "sdv:item/cooking/dish_o-_the_sea"
+    }
+}

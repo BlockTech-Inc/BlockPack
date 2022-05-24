@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "minecraft:block/white_stained_glass"
+    },
+	
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1370001}, "model": "buildmodeone:3d_editor/kitchen/wineglass"},
+		{"predicate": {"custom_model_data":1370002}, "model": "buildmodeone:3d_editor/kitchen/wineglass_filled"},
+		{"predicate": {"custom_model_data":1370003}, "model": "buildmodeone:3d_editor/kitchen/normalglass"},
+		{"predicate": {"custom_model_data":1370004}, "model": "buildmodeone:3d_editor/kitchen/normalglass_filled"},
+		{"predicate": {"custom_model_data":1370005}, "model": "buildmodeone:3d_editor/bathroom/sink_filled"},
+		{"predicate": {"custom_model_data":1370006}, "model": "buildmodeone:3d_editor/bathroom/sink_running"},
+		{"predicate": {"custom_model_data":1370007}, "model": "buildmodeone:3d_editor/bathroom/mirror"},
+		{"predicate": {"custom_model_data":1370008}, "model": "buildmodeone:3d_editor/bathroom/toilet_open"},
+		{"predicate": {"custom_model_data":1370009}, "model": "buildmodeone:3d_editor/garden/fountain"},
+		{"predicate": {"custom_model_data":1370010}, "model": "buildmodeone:3d_editor/plants/bonsai"},
+		{"predicate": {"custom_model_data":1370011}, "model": "buildmodeone:3d_editor/kitchen/carafe"},
+		{"predicate": {"custom_model_data":1370012}, "model": "buildmodeone:3d_editor/kitchen/carafe_water"},
+		{"predicate": {"custom_model_data":1370013}, "model": "buildmodeone:3d_editor/kitchen/carafe_orange"},
+		{"predicate": {"custom_model_data":1370014}, "model": "buildmodeone:3d_editor/kitchen/carafe_yellow"},
+		{"predicate": {"custom_model_data":1370015}, "model": "buildmodeone:3d_editor/kitchen/carafe_purple"},
+		
+		{"predicate": {"custom_model_data":1370016}, "model": "buildmodeone:3d_editor/update"}
+	]
+
+}
+
+	

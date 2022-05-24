@@ -1,0 +1,33 @@
+{
+    "parent": "minecraft:_parent_bowl",
+    "textures": {
+        "layer0": "minecraft:item/beetroot_soup",
+        "particle": "minecraft:item/transparent"
+    },
+    "overrides": [
+        {
+            "predicate": {"custom_model_data": 1},
+            "model": "sdv:item/cooking/algae_soup"
+        },
+        {
+            "predicate": {"custom_model_data": 2},
+            "model": "sdv:item/cooking/artichoke_dip"
+        },
+        {
+            "predicate": {"custom_model_data": 3},
+            "model": "sdv:item/cooking/coleslaw"
+        },
+        {
+            "predicate":{"custom_model_data":4},
+            "model":"sdv:item/cooking/fish_stew"
+        },
+        {
+            "predicate":{"custom_model_data":5},
+            "model":"sdv:item/cooking/seafoam_pudding"
+        },
+        {
+            "predicate":{"custom_model_data":6},
+            "model":"sdv:item/artisan/caviar"
+        }
+    ]
+}

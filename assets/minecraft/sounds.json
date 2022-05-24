@@ -1,0 +1,312 @@
+{
+    "noxcrew": {
+        "subtitle": "Noxcrew!",
+        "sounds": [
+            {
+                "name": "noxcrew"
+            }
+        ]
+    },
+    "yahoo": {
+        "sounds": [
+            {
+                "name": "yahoo"
+            }
+        ],
+        "subtitle": "§o§cYahoo!"
+    },
+    "block.bed.change_bedsheets": {
+        "subtitle": "bob.subtitles.item.banner.change_bedsheets",
+        "sounds": [
+            {
+                "name": "bob:bedsheets_changed_1"
+            },
+            {
+                "name": "bob:bedsheets_changed_2"
+            },
+            {
+                "name": "bob:bedsheets_changed_3"
+            },
+            {
+                "name": "bob:bedsheets_changed_4"
+            }
+            
+        ]
+    },
+    "bulletbig": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletbig"}
+        ]
+    },
+    "bulletmedium": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletmedium"}
+        ]
+    },
+    "bulletsmall": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletsmall"}
+        ]
+    },
+    "bulletauto": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletauto"}
+        ]
+    },
+    "reloadbolt": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadbolt"}
+        ]
+    },
+    "reloadbullet": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadbullet"}
+        ]
+    },
+    "reloadmagin": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadmagin"}
+        ]
+    },
+    "reloadmagout": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadmagout"}
+        ]
+    },
+    "warheadexplode": {
+        "replace": false,
+        "sounds": [
+            {"name": "warheadexplode"}
+        ]
+    },
+    "warheadlaunch": {
+        "replace": false,
+        "sounds": [
+            {"name": "warheadlaunch"}
+        ]
+    },
+    "bulletlazer": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletlazer"}
+        ]
+    },
+    "flashbang": {
+        "replace": false,
+        "sounds": [
+            {"name": "flashbang"}
+        ]
+    },
+    "chainsmall": {
+        "replace": false,
+        "sounds": [
+            {"name": "chainsmall"}
+        ]
+    },
+    "metalhit": {
+        "replace": false,
+        "sounds": [
+            {"name": "metalhit"}
+        ]
+    },
+    "shockwave": {
+        "replace": false,
+        "sounds": [
+            {"name": "shockwave"}
+        ]
+    },
+    "lazerfire": {
+        "replace": false,
+        "sounds": [
+            {"name": "lazerfire"}
+        ]
+    },
+    "bulletswblaster": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletswblaster"}
+        ]
+    },
+    "bulletneedler": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletneedler"}
+        ]
+    },
+    "bullethalolazer": {
+        "replace": false,
+        "sounds": [
+            {"name": "bullethalolazer"}
+        ]
+    },
+    "bulletdeagle": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletdeagle"}
+        ]
+    },
+    "bulletsmallauto": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletsmallauto"}
+        ]
+    },
+    "driving": {
+        "replace": false,
+        "sounds": [
+            {"name": "driving"}
+        ]
+    },
+    "driving2": {
+        "replace": false,
+        "sounds": [
+            {"name": "driving2"}
+        ]
+    },
+    "engine": {
+        "replace": false,
+        "sounds": [
+            {"name": "engine"}
+        ]
+    },
+    "carskid": {
+        "replace": false,
+        "sounds": [
+            {"name": "carskid"}
+        ]
+    },
+    "honk": {
+        "replace": false,
+        "sounds": [
+            {"name": "honk"}
+        ]
+    },
+    "siren": {
+        "replace": false,
+        "sounds": [
+            {"name": "siren"}
+        ]
+    },
+    "lightsaberstart": {
+        "replace": false,
+        "sounds": [
+            {"name": "lightsaberstart"}
+        ]
+    },
+    "saberhit": {
+        "replace": false,
+        "sounds": [
+            {"name": "saberhit"}
+        ]
+    },
+    "sithsaberstart": {
+        "replace": false,
+        "sounds": [
+            {"name": "sithsaberstart"}
+        ]
+    },
+    "reloadclick": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadclick"}
+        ]
+    },
+    "reloadmagclick": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadmagclick"}
+        ]
+    },
+    "outofammoclick": {
+        "replace": false,
+        "sounds": [
+            {"name": "outofammoclick"}
+        ]
+    },
+    "openbag": {
+        "replace": false,
+        "sounds": [
+            {"name": "openbag"}
+        ]
+    },
+    "partyshot": {
+        "replace": false,
+        "sounds": [
+            {"name": "partyshot"}
+        ]
+    },
+    "thumper": {
+        "replace": false,
+        "sounds": [
+            {"name": "thumper"}
+        ]
+    },
+    "bulletsilence": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletsilence"}
+        ]
+    },
+    "reloadak47": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadak47"}
+        ]
+    },
+    "reloadslide": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadslide"}
+        ]
+    },
+    "bulletmauser": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletmauser"}
+        ]
+    },
+    "bulletak47": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletak47"}
+        ]
+    },
+    "reloadfn": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadfn"}
+        ]
+    },
+    "reloadm16": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadm16"}
+        ]
+    },
+    "reloadshotgun": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadshotgun"}
+        ]
+    },
+    "bulletshotgun": {
+        "replace": false,
+        "sounds": [
+            {"name": "bulletshotgun"}
+        ]
+    },
+    "reloadshell": {
+        "replace": false,
+        "sounds": [
+            {"name": "reloadshell"}
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/egg"
+  },
+  "overrides": [
+    {
+      "predicate":{"custom_model_data":1},
+      "model":"sdv:item/animal/brown_egg"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"sdv:item/animal/dinosaur_egg"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"sdv:item/animal/duck_egg"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"sdv:item/animal/egg"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"sdv:item/animal/golden_egg"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"sdv:item/animal/large_brown_egg"
+    },
+    {
+      "predicate":{"custom_model_data":7},
+      "model":"sdv:item/animal/large_egg"
+    },
+    {
+      "predicate":{"custom_model_data":8},
+      "model":"sdv:item/animal/ostrich_egg"
+    },
+    {
+      "predicate":{"custom_model_data":9},
+      "model":"sdv:item/animal/void_egg"
+    }
+  ]
+}

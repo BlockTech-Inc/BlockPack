@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"0": "sdv:item/crops/giant_crops/giant_cauliflower",
+		"particle": "sdv:item/crops/giant_crops/giant_cauliflower"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [2.25, 19, 0],
+			"scale": [3, 3, 1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-2, 16.5, 0],
+			"scale": [3, 3, 1]
+		},
+		"firstperson_righthand": {
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 19.25, 0],
+			"scale": [3, 3, 1]
+		},
+		"gui": {
+			"scale": [3, 3, 1]
+		},
+		"head": {
+			"translation": [0, -0.25, -5.75],
+			"scale": [3, 3, 1]
+		},
+		"fixed": {
+			"scale": [1.2, 1.2, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "potato",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": []
+		}
+	]
+}
