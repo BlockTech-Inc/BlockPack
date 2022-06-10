@@ -56,5 +56,11 @@
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+	"overrides": [
+		{
+			"predicate": {"custom_model_data":83241},
+			"model":"shelve:item/empty"
+		}
+	]
 }

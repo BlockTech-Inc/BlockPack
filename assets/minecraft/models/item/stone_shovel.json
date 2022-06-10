@@ -24,6 +24,10 @@
                 "damage": 0.95
             },
             "model": "item/stone_shovel/stone_shovel_04"
+        },
+        {
+            "predicate": { "custom_model_data": 1567 },
+            "model": "fruitful_loot:item/trinkets/verdegris_shovel"
         }
     ]
 }
