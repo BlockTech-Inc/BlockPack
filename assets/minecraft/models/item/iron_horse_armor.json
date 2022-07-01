@@ -75,6 +75,10 @@
     {
       "predicate":{"custom_model_data":18},
       "model":"lab:item/office_props/mug"
+    },
+    {
+      "predicate":{"custom_model_data":19},
+      "model":"lab:item/dome-sensor/blue"
     }
   ]
 }
