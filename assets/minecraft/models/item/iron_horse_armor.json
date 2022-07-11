@@ -5,26 +5,6 @@
   },
   "overrides":[
     {
-      "predicate":{"custom_model_data":1},
-      "model":"sdv:item/fish/clam"
-    },
-    {
-      "predicate":{"custom_model_data":2},
-      "model":"sdv:item/fish/mussel"
-    },
-    {
-      "predicate":{"custom_model_data":3},
-      "model":"sdv:item/fish/periwinkle"
-    },
-    {
-      "predicate":{"custom_model_data":4},
-      "model":"sdv:item/qi_seasoning"
-    },
-    {
-      "predicate":{"custom_model_data":5},
-      "model":"sdv:item/movie/jawbreaker"
-    },
-    {
       "predicate":{"custom_model_data":6},
       "model":"lab:item/monitor/monitor-boat"
     },

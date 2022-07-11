@@ -69,17 +69,6 @@
         { "predicate": { "time": 0.9453125 }, "model": "item/clock_61" },
         { "predicate": { "time": 0.9609375 }, "model": "item/clock_62" },
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
-        { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
-     	{ "predicate": {"custom_model_data": 1567}, "model": "fruitful_loot:item/trinkets/fire_stone"},
-     	{ "predicate": {"custom_model_data": 2567}, "model": "fruitful_loot:item/trinkets/ice_stone"},
-     	{ "predicate": {"custom_model_data": 3567}, "model": "fruitful_loot:item/trinkets/water_stone"},
-     	{ "predicate": {"custom_model_data": 4567}, "model": "fruitful_loot:item/trinkets/rock_stone"},
-     	{ "predicate": {"custom_model_data": 5567}, "model": "fruitful_loot:item/trinkets/skull_cursed"},
-     	{ "predicate": {"custom_model_data": 6567}, "model": "fruitful_loot:item/trinkets/desert_amulet"},
-     	{ "predicate": {"custom_model_data": 7567}, "model": "fruitful_loot:item/trinkets/jungle_tablet"},
-		{ "predicate": {"custom_model_data": 8567}, "model": "fruitful_loot:item/trinkets/woodland_amulet"},
-		{ "predicate": {"custom_model_data": 9567}, "model": "fruitful_loot:item/trinkets/void_cube"}
-	
-
+        { "predicate": { "time": 0.9921875 }, "model": "item/clock" }
     ]
 }
