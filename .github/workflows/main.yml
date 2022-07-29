@@ -38,7 +38,7 @@
     # If true, PackSquash will attempt to automatically deduce the appropriate set of pack files to include in the generated ZIP by checking what Minecraft versions it targets, according to the pack format version in the pack.mcmeta file. Otherwise, PackSquash will include any file it recognizes no matter what. Enabling this feature implies validating the pack metadata file, even if validate_pack_metadata_file is set to false.
     automatic_asset_types_mask_detection: # optional, default is true
     # Adds support for .properties files. From PackSquash v0.3.0 onwards, it also adds .jpm and .jem for proper Custom Entity Models support. From PackSquash v0.3.1 onwards, the extensions .jpmc and .jemc are accepted to indicate the usage of comments.
-    allow_optifine_mod: # optional, default is false
+    allow_optifine_mod: true # optional, default is false
     # Adds support for Blockbench modded entity model projects for custom train models in the mtr asset namespace, stored as .bbmodel or .bbmodelc files.
     allow_mtr3_mod: # optional, default is false
     # If true, the pack.png file that contains the resource pack icon will not be included in the result ZIP file. As of Minecraft 1.16.3, the icon of server resource packs is not displayed, so this optimization does not have any drawbacks in this case.
