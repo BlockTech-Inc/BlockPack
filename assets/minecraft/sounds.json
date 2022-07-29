@@ -15,298 +15,295 @@
         ],
         "subtitle": "§o§cYahoo!"
     },
+
+
+
     "block.bed.change_bedsheets": {
         "subtitle": "bob.subtitles.item.banner.change_bedsheets",
         "sounds": [
-            {
-                "name": "bob:bedsheets_changed_1"
-            },
-            {
-                "name": "bob:bedsheets_changed_2"
-            },
-            {
-                "name": "bob:bedsheets_changed_3"
-            },
-            {
-                "name": "bob:bedsheets_changed_4"
-            }
-            
+            {"name": "bob:bedsheets_changed_1"},
+            {"name":"bob:bedsheets_changed_2"},
+            {"name":"bob:bedsheets_changed_3"},
+            {"name":"bob:bedsheets_changed_4"}
         ]
     },
+
+
+
     "bulletbig": {
         "replace": false,
         "sounds": [
-            {"name": "bulletbig"}
+            "bulletbig"
         ]
     },
     "bulletmedium": {
         "replace": false,
         "sounds": [
-            {"name": "bulletmedium"}
+            "bulletmedium"
         ]
     },
     "bulletsmall": {
         "replace": false,
         "sounds": [
-            {"name": "bulletsmall"}
+            "bulletsmall"
         ]
     },
     "bulletauto": {
         "replace": false,
         "sounds": [
-            {"name": "bulletauto"}
+            "bulletauto"
         ]
     },
     "reloadbolt": {
         "replace": false,
         "sounds": [
-            {"name": "reloadbolt"}
+            "reloadbolt"
         ]
     },
     "reloadbullet": {
         "replace": false,
         "sounds": [
-            {"name": "reloadbullet"}
+            "reloadbullet"
         ]
     },
     "reloadmagin": {
         "replace": false,
         "sounds": [
-            {"name": "reloadmagin"}
+            "reloadmagin"
         ]
     },
     "reloadmagout": {
         "replace": false,
         "sounds": [
-            {"name": "reloadmagout"}
+            "reloadmagout"
         ]
     },
     "warheadexplode": {
         "replace": false,
         "sounds": [
-            {"name": "warheadexplode"}
+            "warheadexplode"
         ]
     },
     "warheadlaunch": {
         "replace": false,
         "sounds": [
-            {"name": "warheadlaunch"}
+            "warheadlaunch"
         ]
     },
     "bulletlazer": {
         "replace": false,
         "sounds": [
-            {"name": "bulletlazer"}
+            "bulletlazer"
         ]
     },
     "flashbang": {
         "replace": false,
         "sounds": [
-            {"name": "flashbang"}
+            "flashbang"
         ]
     },
     "chainsmall": {
         "replace": false,
         "sounds": [
-            {"name": "chainsmall"}
+            "chainsmall"
         ]
     },
     "metalhit": {
         "replace": false,
         "sounds": [
-            {"name": "metalhit"}
+            "metalhit"
         ]
     },
     "shockwave": {
         "replace": false,
         "sounds": [
-            {"name": "shockwave"}
+            "shockwave"
         ]
     },
     "lazerfire": {
         "replace": false,
         "sounds": [
-            {"name": "lazerfire"}
+            "lazerfire"
         ]
     },
     "bulletswblaster": {
         "replace": false,
         "sounds": [
-            {"name": "bulletswblaster"}
+            "bulletswblaster"
         ]
     },
     "bulletneedler": {
         "replace": false,
         "sounds": [
-            {"name": "bulletneedler"}
+            "bulletneedler"
         ]
     },
     "bullethalolazer": {
         "replace": false,
         "sounds": [
-            {"name": "bullethalolazer"}
+            "bullethalolazer"
         ]
     },
     "bulletdeagle": {
         "replace": false,
         "sounds": [
-            {"name": "bulletdeagle"}
+            "bulletdeagle"
         ]
     },
     "bulletsmallauto": {
         "replace": false,
         "sounds": [
-            {"name": "bulletsmallauto"}
+            "bulletsmallauto"
         ]
     },
     "driving": {
         "replace": false,
         "sounds": [
-            {"name": "driving"}
+            "driving"
         ]
     },
     "driving2": {
         "replace": false,
         "sounds": [
-            {"name": "driving2"}
+            "driving2"
         ]
     },
     "engine": {
         "replace": false,
         "sounds": [
-            {"name": "engine"}
+            "engine"
         ]
     },
     "carskid": {
         "replace": false,
         "sounds": [
-            {"name": "carskid"}
+            "carskid"
         ]
     },
     "honk": {
         "replace": false,
         "sounds": [
-            {"name": "honk"}
+            "honk"
         ]
     },
     "siren": {
         "replace": false,
         "sounds": [
-            {"name": "siren"}
+            "siren"
         ]
     },
     "lightsaberstart": {
         "replace": false,
         "sounds": [
-            {"name": "lightsaberstart"}
+            "lightsaberstart"
         ]
     },
     "saberhit": {
         "replace": false,
         "sounds": [
-            {"name": "saberhit"}
+            "saberhit"
         ]
     },
     "sithsaberstart": {
         "replace": false,
         "sounds": [
-            {"name": "sithsaberstart"}
+            "sithsaberstart"
         ]
     },
     "reloadclick": {
         "replace": false,
         "sounds": [
-            {"name": "reloadclick"}
+            "reloadclick"
         ]
     },
     "reloadmagclick": {
         "replace": false,
         "sounds": [
-            {"name": "reloadmagclick"}
+            "reloadmagclick"
         ]
     },
     "outofammoclick": {
         "replace": false,
         "sounds": [
-            {"name": "outofammoclick"}
+            "outofammoclick"
         ]
     },
     "openbag": {
         "replace": false,
         "sounds": [
-            {"name": "openbag"}
+            "openbag"
         ]
     },
     "partyshot": {
         "replace": false,
         "sounds": [
-            {"name": "partyshot"}
+            "partyshot"
         ]
     },
     "thumper": {
         "replace": false,
         "sounds": [
-            {"name": "thumper"}
+            "thumper"
         ]
     },
     "bulletsilence": {
         "replace": false,
         "sounds": [
-            {"name": "bulletsilence"}
+            "bulletsilence"
         ]
     },
     "reloadak47": {
         "replace": false,
         "sounds": [
-            {"name": "reloadak47"}
+            "reloadak47"
         ]
     },
     "reloadslide": {
         "replace": false,
         "sounds": [
-            {"name": "reloadslide"}
+            "reloadslide"
         ]
     },
     "bulletmauser": {
         "replace": false,
         "sounds": [
-            {"name": "bulletmauser"}
+            "bulletmauser"
         ]
     },
     "bulletak47": {
         "replace": false,
         "sounds": [
-            {"name": "bulletak47"}
+            "bulletak47"
         ]
     },
     "reloadfn": {
         "replace": false,
         "sounds": [
-            {"name": "reloadfn"}
+            "reloadfn"
         ]
     },
     "reloadm16": {
         "replace": false,
         "sounds": [
-            {"name": "reloadm16"}
+            "reloadm16"
         ]
     },
     "reloadshotgun": {
         "replace": false,
         "sounds": [
-            {"name": "reloadshotgun"}
+            "reloadshotgun"
         ]
     },
     "bulletshotgun": {
         "replace": false,
         "sounds": [
-            {"name": "bulletshotgun"}
+            "bulletshotgun"
         ]
     },
     "reloadshell": {
         "replace": false,
         "sounds": [
-            {"name": "reloadshell"}
+            "reloadshell"
         ]
     }
 }
