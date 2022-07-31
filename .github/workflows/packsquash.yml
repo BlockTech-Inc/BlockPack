@@ -1,4 +1,4 @@
-- name: PackSquash
+name: PackSquash
   # You may pin to the exact commit or the version.
   # uses: ComunidadAylas/PackSquash-action@cdeba7365a1491b436b1a9c381d63b5ee6c27f2e
   uses: ComunidadAylas/PackSquash-action@v3.0.0
