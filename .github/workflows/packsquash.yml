@@ -14,4 +14,5 @@ jobs:
           allow_optifine_mod: true
           zip_spec_conformance_level: disregard
           transcode_ogg: false
-          maximum_width_and_height: 12288
+          maximum_image_width_and_height: 12288
+          
