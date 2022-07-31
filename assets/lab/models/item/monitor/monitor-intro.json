@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "lab:monitor/monitor",
-		"1": "lab:monitor/monitor_screen/glitch",
+		"1": "lab:monitor/monitor_screen/original",
 		"particle": "lab:monitor/monitor"
 	},
 	"elements": [
