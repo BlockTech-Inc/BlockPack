@@ -298,5 +298,12 @@
                 "name": "lab:voice/shitpost_1"
             }
         ]
+    },
+    "voice.dr_pedro_return_to_pen":{
+        "sounds": [
+            {
+                "name": "lab:voice/dr_pedro_return_to_pen"
+            }
+        ]
     }
 }
