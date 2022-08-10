@@ -1,6 +1,0 @@
-{
-    "parent": "block/monitor",
-    "textures": {
-        "1": "item/monitor_screen/scale"
-    }
-}

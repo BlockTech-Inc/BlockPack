@@ -5,6 +5,26 @@
   },
   "overrides":[
     {
+      "predicate":{"custom_model_data":1},
+      "model":"lab:item/keycards/alpha"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"lab:item/keycards/beta"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"lab:item/keycards/delta"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"lab:item/keycards/gamma"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"lab:item/keycards/omega"
+    },
+    {
       "predicate":{"custom_model_data":6},
       "model":"lab:item/monitor/monitor-boat"
     },
@@ -59,6 +79,22 @@
     {
       "predicate":{"custom_model_data":19},
       "model":"lab:item/dome-sensor/blue"
+    },
+    {
+      "predicate":{"custom_model_data":20},
+      "model":"lab:item/keycards/ben"
+    },
+    {
+      "predicate":{"custom_model_data":21},
+      "model":"lab:item/keycards/gus"
+    },
+    {
+      "predicate":{"custom_model_data":22},
+      "model":"lab:item/keycards/ghost"
+    },
+    {
+      "predicate":{"custom_model_data":23},
+      "model":"lab:item/keycards/wintoast"
     }
   ]
 }

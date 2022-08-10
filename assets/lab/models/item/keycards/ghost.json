@@ -1,0 +1,4 @@
+{
+    "parent": "item/generated",
+    "textures": {"0": "keycards/ghost_card"}
+}
