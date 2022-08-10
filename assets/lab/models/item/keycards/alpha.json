@@ -1,4 +1,7 @@
 {
-    "parent": "item/generated",
-    "textures": {"0": "keycards/alpha_card"}
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"0": "lab:keycards/alpha_card"
+	}
 }
