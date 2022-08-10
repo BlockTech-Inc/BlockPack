@@ -12,7 +12,7 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           allow_optifine_mod: true
-          zip_spec_conformance_level: disregard
+          zip_spec_conformance_level: balanced
           transcode_ogg: false
           maximum_image_width_and_height: 12288
           
