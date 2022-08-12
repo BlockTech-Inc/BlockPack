@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "lab:item/keycard/7"
+        "layer0": "item/keycard/2"
     }
 }

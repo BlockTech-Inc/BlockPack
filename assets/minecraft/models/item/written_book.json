@@ -11,23 +11,39 @@
         },
         {
             "predicate": { "custom_model_data": 1 },
-            "model": "lab:item/keycard/1"
+            "model": "item/keycard/1"
         },
         {
             "predicate": { "custom_model_data": 2 },
-            "model": "lab:item/keycard/2"
+            "model": "item/keycard/2"
         },
         {
             "predicate": { "custom_model_data": 3 },
-            "model": "lab:item/keycard/3"
+            "model": "item/keycard/3"
         },
         {
             "predicate": { "custom_model_data": 4 },
-            "model": "lab:item/keycard/4"
+            "model": "item/keycard/4"
         },
         {
             "predicate": { "custom_model_data": 5 },
-            "model": "lab:item/keycard/5"
+            "model": "item/keycard/5"
+        },
+        {
+            "predicate": { "custom_model_data": 6 },
+            "model": "item/keycard/6"
+        },
+        {
+            "predicate": { "custom_model_data": 7 },
+            "model": "item/keycard/7"
+        },
+        {
+            "predicate": { "custom_model_data": 8 },
+            "model": "item/keycard/8"
+        },
+        {
+            "predicate": { "custom_model_data": 9 },
+            "model": "item/keycard/9"
         }
     ]
 }
