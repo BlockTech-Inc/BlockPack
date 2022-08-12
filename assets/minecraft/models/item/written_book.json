@@ -11,23 +11,23 @@
         },
         {
             "predicate": { "custom_model_data": 1 },
-            "model": "lab:item/keycards/alpha"
+            "model": "lab:item/keycard/1"
         },
         {
             "predicate": { "custom_model_data": 2 },
-            "model": "lab:item/keycards/beta"
+            "model": "lab:item/keycard/2"
         },
         {
             "predicate": { "custom_model_data": 3 },
-            "model": "lab:item/keycards/delta"
+            "model": "lab:item/keycard/3"
         },
         {
             "predicate": { "custom_model_data": 4 },
-            "model": "lab:item/keycards/gamma"
+            "model": "lab:item/keycard/4"
         },
         {
             "predicate": { "custom_model_data": 5 },
-            "model": "lab:item/keycards/omega"
+            "model": "lab:item/keycard/5"
         }
     ]
 }

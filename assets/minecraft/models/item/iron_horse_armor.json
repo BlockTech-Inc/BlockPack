@@ -59,22 +59,6 @@
     {
       "predicate":{"custom_model_data":19},
       "model":"lab:item/dome-sensor/blue"
-    },
-    {
-      "predicate":{"custom_model_data":20},
-      "model":"lab:item/keycards/ben"
-    },
-    {
-      "predicate":{"custom_model_data":21},
-      "model":"lab:item/keycards/gus"
-    },
-    {
-      "predicate":{"custom_model_data":22},
-      "model":"lab:item/keycards/ghost"
-    },
-    {
-      "predicate":{"custom_model_data":23},
-      "model":"lab:item/keycards/wintoast"
     }
   ]
 }
