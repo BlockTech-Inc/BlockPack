@@ -305,5 +305,21 @@
                 "name": "lab:voice/dr_pedro_return_to_pen"
             }
         ]
+    },
+    "ambient.airlock.big_airlock_open":{
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/big_airlock_open"
+            }
+        ],
+        "subtitle": "Pressurized Door Opens"
+    },
+    "ambient.airlock.big_airlock_close":{
+        "sounds": [
+            {
+                "name": "lab:ambient/airlock/big_airlock_close"
+            }
+        ],
+        "subtitle": "Pressurized Door Closes"
     }
 }
