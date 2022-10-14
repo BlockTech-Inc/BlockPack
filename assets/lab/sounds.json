@@ -176,6 +176,14 @@
             }
         ]
     },
+    "ambient.core.hum2": {
+        "subtitle": "Core Hums",
+        "sounds": [
+            {
+                "name": "lab:ambient/corehum2"
+            }
+        ]
+    },
     "ambient.gotowarp": {
         "sounds": [
             {
@@ -327,6 +335,16 @@
         "sounds": [
             {
                 "name": "lab:voice/hard"
+            }
+        ]
+    },
+    "ambient.thwomp":{
+        "sounds": [
+            {
+                "name": "lab:ambient/thwomp/eeurgh"
+            },
+            {
+                "name": "lab:ambient/thwomp/eurgh"
             }
         ]
     }
