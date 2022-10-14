@@ -1898,6 +1898,1398 @@
             "predicate": {
                 "custom_model_data": 1370317
             },
+            "model": "buildmodeone:3d_editor/kitchen/fruit_bowl/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370318
+            },
+            "model": "buildmodeone:3d_editor/kitchen/fruit_bowl/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370319
+            },
+            "model": "buildmodeone:3d_editor/kitchen/fruit_bowl/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370320
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370321
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370322
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370323
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/cyan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370324
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370325
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370326
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/light_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370327
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/light_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370328
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/lime"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370329
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/magenta"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370330
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/orange"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370331
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/pink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370332
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370333
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370334
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370335
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/mangrove/yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370336
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370337
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370338
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370339
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/cyan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370340
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370341
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370342
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/light_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370343
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/light_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370344
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/lime"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370345
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/magenta"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370346
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/orange"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370347
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/pink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370348
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370349
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370350
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370351
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/warped/yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370352
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370353
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370354
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370355
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/cyan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370356
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370357
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370358
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/light_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370359
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/light_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370360
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/lime"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370361
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/magenta"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370362
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/orange"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370363
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/pink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370364
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370365
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370366
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370367
+            },
+            "model": "buildmodeone:3d_editor/chairs/modern/angular/crimson/yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370368
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/acacia/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370369
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/acacia/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370370
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/acacia/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370371
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/birch/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370372
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/birch/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370373
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/birch/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370374
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/oak/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370375
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/oak/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370376
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/oak/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370377
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/jungle/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370378
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/jungle/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370379
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/jungle/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370380
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/spruce/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370381
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/spruce/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370382
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/spruce/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370383
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/dark_oak/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370384
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/dark_oak/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370385
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/dark_oak/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370386
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370387
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370388
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370389
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370390
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370391
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370392
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370393
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370394
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/mangrove/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370395
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370396
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370397
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370398
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370399
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370400
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370401
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370402
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370403
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/crimson/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370404
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370405
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370406
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370407
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370408
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370409
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370410
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370411
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370412
+            },
+            "model": "buildmodeone:3d_editor/chairs/garden/warped/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370413
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/birch_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370414
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/earth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370415
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/lush_caves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370416
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/mangrove_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370417
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/swamp_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370418
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/water"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370419
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/woman_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370420
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/mangrove/woman_red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370421
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/birch_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370422
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/earth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370423
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/lush_caves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370424
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/mangrove_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370425
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/swamp_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370426
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/water"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370427
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/woman_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370428
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/crimson/woman_red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370429
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/birch_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370430
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/earth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370431
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/lush_caves"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370432
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/mangrove_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370433
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/swamp_biome"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370434
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/water"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370435
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/woman_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370436
+            },
+            "model": "buildmodeone:3d_editor/paintings/small_standing/warped/woman_red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370437
+            },
+            "model": "buildmodeone:3d_editor/misc/wet_floor_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370438
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370439
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/light_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370440
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370441
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370442
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370443
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370444
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/orange"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370445
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370446
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/lime"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370447
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370448
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/cyan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370449
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/light_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370450
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370451
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370452
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/magenta"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370453
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/pink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370454
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/round/rgb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370455
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/abstract/copper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370456
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/abstract/exposed_copper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370457
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/abstract/weathered_copper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370458
+            },
+            "model": "buildmodeone:3d_editor/rotation/base/abstract/oxidized_copper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370459
+            },
+            "model": "buildmodeone:3d_editor/plants/lavender_pot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370460
+            },
+            "model": "buildmodeone:3d_editor/bathroom/perfume/blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370461
+            },
+            "model": "buildmodeone:3d_editor/bathroom/shampoo/green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370462
+            },
+            "model": "buildmodeone:3d_editor/electronics/phone/silver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370463
+            },
+            "model": "buildmodeone:3d_editor/wardrobe/wristwatch/gold"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370464
+            },
+            "model": "buildmodeone:3d_editor/kitchen/cup"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370465
+            },
+            "model": "buildmodeone:3d_editor/kitchen/cup_filled"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370466
+            },
+            "model": "buildmodeone:3d_editor/bathroom/perfume/black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370467
+            },
+            "model": "buildmodeone:3d_editor/bathroom/perfume/orange"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370468
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370469
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370470
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370471
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370472
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370473
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370474
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370475
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370476
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/acacia/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370477
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370478
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370479
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370480
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370481
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370482
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370483
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370484
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370485
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/birch/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370486
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370487
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370488
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370489
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370490
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370491
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370492
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370493
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370494
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/oak/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370495
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370496
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370497
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370498
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370499
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370500
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370501
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370502
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370503
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/jungle/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370504
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370505
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370506
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370507
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370508
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370509
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370510
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370511
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370512
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/spruce/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370513
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370514
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370515
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370516
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370517
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370518
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370519
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370520
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370521
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/dark_oak/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370522
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370523
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370524
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370525
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370526
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370527
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370528
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370529
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370530
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/mangrove/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370531
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370532
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370533
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370534
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370535
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370536
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370537
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370538
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370539
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/crimson/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370540
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/acacia"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370541
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/birch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370542
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370543
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/jungle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370544
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370545
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/dark_oak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370546
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/mangrove"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370547
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/crimson"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370548
+            },
+            "model": "buildmodeone:3d_editor/chairs/barstool/warped/warped"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1370549
+            },
             "model": "buildmodeone:3d_editor/update"
         }
     ]

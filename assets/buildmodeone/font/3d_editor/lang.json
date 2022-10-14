@@ -87,6 +87,33 @@
 			"chars": [
 				"\uEBF9"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "buildmodeone:3d_editor/font/gui/deprecated_inline.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"\uEBFA"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "buildmodeone:3d_editor/font/gui/rgb.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"\uEBFB"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "buildmodeone:3d_editor/font/gui/creator.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"\uEBFC"
+			]
 		}
 	]
 }
