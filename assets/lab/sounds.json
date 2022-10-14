@@ -321,5 +321,13 @@
             }
         ],
         "subtitle": "Pressurized Door Closes"
+    },
+    "voice.hard":{
+        "subtitle": "Hard!",
+        "sounds": [
+            {
+                "name": "lab:voice/hard"
+            }
+        ]
     }
 }
