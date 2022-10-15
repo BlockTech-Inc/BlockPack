@@ -17,3 +17,4 @@ jobs:
           never_store_squash_times: true
           transcode_ogg: false
           always_allow_json_comments: false
+          maximum_width_and_height: 12288
