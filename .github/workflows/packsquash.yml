@@ -1,5 +1,8 @@
 name: Optimize resource pack
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
 jobs:
   packsquash:
     name: Optimize resource pack
