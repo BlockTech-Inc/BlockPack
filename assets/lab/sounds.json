@@ -354,5 +354,12 @@
                 "name": "lab:voice/omega_evac_level_5"
             }
         ]
+    },
+    "voice.happy_birthday_gus":{
+        "sounds": [
+            {
+                "name": "lab:voice/happy_birthday_gus"
+            }
+        ]
     }
 }
