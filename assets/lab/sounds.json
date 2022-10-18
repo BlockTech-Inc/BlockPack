@@ -347,5 +347,12 @@
                 "name": "lab:ambient/thwomp/eurgh"
             }
         ]
+    },
+    "voice.omega_evac_level_5":{
+        "sounds":[
+            {
+                "name": "lab:voice/omega_evac_level_5"
+            }
+        ]
     }
 }
