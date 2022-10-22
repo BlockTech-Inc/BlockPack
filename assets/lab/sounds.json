@@ -88,6 +88,30 @@
             }
         ]
     },
+    "ambient.alarm6": {
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm6"
+            }
+        ]
+    },
+    "ambient.alarm7":{
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm7"
+            }
+        ]
+    },
+    "ambient.alarm8":{
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/alarm8"
+            }
+        ]
+    },
     "ambient.bounce": {
         "sounds": [
             {
@@ -359,6 +383,22 @@
         "sounds": [
             {
                 "name": "lab:voice/happy_birthday_gus"
+            }
+        ]
+    },
+    "ambient.alarm.missile":{
+        "subtitle": "Alarm Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/missile_alarm"
+            }
+        ]
+    },
+    "ambient.alarm.tornado_siren":{
+        "subtitle": "Siren Sounds",
+        "sounds": [
+            {
+                "name": "lab:ambient/alarm/tornado_siren"
             }
         ]
     }
