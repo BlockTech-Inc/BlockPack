@@ -324,14 +324,14 @@
             }
         ]
     },
-    "voice.shitpost_1":{
+    "voice.annoucements.shitpost_1":{
         "sounds": [
             {
                 "name": "lab:voice/shitpost_1"
             }
         ]
     },
-    "voice.dr_pedro_return_to_pen":{
+    "voice.annoucements.dr_pedro_return_to_pen":{
         "sounds": [
             {
                 "name": "lab:voice/dr_pedro_return_to_pen"
@@ -379,7 +379,7 @@
             }
         ]
     },
-    "voice.happy_birthday_gus":{
+    "voice.annoucements.happy_birthday_gus":{
         "sounds": [
             {
                 "name": "lab:voice/happy_birthday_gus"
@@ -399,6 +399,13 @@
         "sounds": [
             {
                 "name": "lab:ambient/alarm/tornado_siren"
+            }
+        ]
+    },
+    "voice.annoucements.doctor_ken_sector_b":{
+        "sounds": [
+            {
+                "name": "lab:voice/dr_ken_sctr_b"
             }
         ]
     }
