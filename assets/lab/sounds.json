@@ -408,5 +408,13 @@
                 "name": "lab:voice/dr_ken_sctr_b"
             }
         ]
+    },
+    "music.end_of_the_world":{
+        "sounds": [
+            {
+                "name": "lab:music/end_of_the_world",
+                "stream": true
+            }
+        ]
     }
 }
