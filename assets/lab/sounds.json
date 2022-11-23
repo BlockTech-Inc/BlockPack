@@ -416,5 +416,21 @@
                 "stream": true
             }
         ]
+    },
+    "music.grodus_battle":{
+        "sounds": [
+            {
+                "name": "lab:music/grodus_battle",
+                "stream": true
+            }
+        ]
+    },
+    "music.bowser_appears":{
+        "sounds": [
+            {
+                "name": "lab:music/bowser_appears",
+                "stream": true
+            }
+        ]
     }
 }
