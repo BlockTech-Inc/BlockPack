@@ -432,5 +432,13 @@
                 "stream": true
             }
         ]
+    },
+    "music.breezy_mushrise_park":{
+        "sounds": [
+            {
+                "name": "lab:music/breezy_mushrise_park_sunny_days_mix",
+                "stream": true
+            }
+        ]
     }
 }
