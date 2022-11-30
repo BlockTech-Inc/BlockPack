@@ -44,6 +44,14 @@
         {
             "predicate": { "custom_model_data": 9 },
             "model": "item/keycard/9"
+        },
+        {
+            "predicate":{ "custom_model_data": 10 },
+            "model": "gui/advancements/notifications"
+        },
+        {
+            "predicate":{"custom_model_data":11},
+            "model":"gui/advancements/alarms"
         }
     ]
 }
