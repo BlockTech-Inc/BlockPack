@@ -440,5 +440,45 @@
                 "stream": true
             }
         ]
+    },
+    "music.detective_pennington":{
+        "sounds": [
+            {
+                "name": "lab:music/detective_pennington",
+                "stream": true
+            }
+        ]
+    },
+    "ambient.grodus_room":{
+        "sounds": [
+            {
+                "name": "lab:ambient/grodus_room",
+                "stream": true
+            }
+        ]
+    },
+    "music.magnus_von_grapple_battle":{
+        "sounds": [
+            {
+                "name": "lab:music/magnus_von_grapple_battle",
+                "stream": true
+            }
+        ]
+    },
+    "music.one_shot":{
+        "sounds": [
+            {
+                "name": "lab:music/one_shot",
+                "stream": true
+            }
+        ]
+    },
+    "music.river_twygz_bed":{
+        "sounds": [
+            {
+                "name": "lab:music/river_twygz_bed",
+                "stream": true
+            }
+        ]
     }
 }
