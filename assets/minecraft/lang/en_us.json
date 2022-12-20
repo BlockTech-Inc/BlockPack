@@ -136,8 +136,5 @@
 
     "container.brewing": "\u00a7f\ueff1\u00a7r              Brewing Stand              \u00a7f\ueff2",
 
-    "block.minecraft.deepslate_emerald_ore": "Unlit Sea Lantern",
-
-    "multiplayer.unsecureserver.toast.title": "",
-    "multiplayer.unsecureserver.toast": ""
+    "block.minecraft.deepslate_emerald_ore": "Unlit Sea Lantern"
 }
