@@ -1,21 +1,55 @@
 Vanilla Tweaks Resource Pack
 Version: 1.19
 Packs:
+	HDShieldBanners
+	UniqueDyes
+	BetterBedrock
+	SmootherStones
+	CircleLogTops
+	SmootherOakLog
+	VariatedBookshelves
+	VariatedUnpolishedStones
+	VariatedTerracotta
+	VariatedStone
+	VariatedPlanks
+	VariatedGravel
+	VariatedEndStone
+	VariatedMushroomBlocks
+	VariatedLogs
+	VariatedBricks
+	RandomMossRotation
+	VariatedCobblestone
+	RandomCoarseDirtRotation
+	VariatedDirt
+	VariatedMycelium
+	VariatedGrass
+	StickyPistonSides
+	ClearBannerPatterns
+	DirectionalDispensersDroppers
+	VisualInfestedStoneItems
+	VisualWaxedCopperItems
+	BrewingGuide
+	AlternateEnchantGlint
+	CleanerWorldBorder
+	3DTiles
+	3DChains
+	3DStonecutters
+	3DSunMoon
+	SmootherFont
+	NoJavaEditionTitle
+	BedrockDriedKelpItem
 	CloudFogFix
 	CatFix
 	HoeFix
 	DoubleSlabFix
 	IronBarsFix
-	NicerFastLeaves
 	SlimeParticleFix
 	BlazeFix
 	SoulSoilSoulCampfire
 	PixelConsistentWither
 	PixelConsistentElderGuardian
 	PixelConsistentGhast
-	ConsistentHelmets
 	CactusBottomFix
-	ConsistentTadpoleBucket
 	ConsistentBucketFix
 	DripleafFixSmall
 	DripleafFixBig
@@ -24,46 +58,21 @@ Packs:
 	JappaStatsIcons
 	JappaToasts
 	ItemStitchingFix
-	ProperBreakParticles
-	BedrockDriedKelpItem
-	SmootherFont
-	NoJavaEditionTitle
-	3DTiles
-	3DChains
-	3DStonecutters
-	3DSunMoon
-	AlternateEnchantGlint
-	CleanerWorldBorder
-	StickyPistonSides
-	ClearBannerPatterns
-	DirectionalDispensersDroppers
-	DirectionalHoppers
-	VisualInfestedStoneItems
-	VisualWaxedCopperItems
-	BrewingGuide
-	VariatedBricks
-	RandomSunflowerRotation
-	VariatedBookshelves
-	VariatedUnpolishedStones
-	VariatedTerracotta
-	VariatedStone
-	VariatedPlanks
-	VariatedMycelium
-	VariatedGravel
-	VariatedEndStone
-	VariatedMushroomBlocks
-	VariatedLogs
-	RandomMossRotation
-	VariatedCobblestone
-	VariatedGrass
-	RandomCoarseDirtRotation
-	VariatedDirt
-	BetterBedrock
-	HDShieldBanners
-	UniqueDyes
+	ConsistentTadpoleBucket
+	NicerFastLeaves
+	DarkerDarkOakLeaves
 	JappaRecipeButton
 	ConsistentUIFix
+	ProperBreakParticles
+	DirectionalHoppers
 	JappaObserver
 	BetterObservers
 	NoBowlParticles
 	ItemHoldFix
+
+Combined packs:
+	ItemHoldFix+NoBowlParticles
+	BetterObservers+JappaObserver
+	DirectionalHoppers+ProperBreakParticles
+	ConsistentUIFix+JappaRecipeButton
+	DarkerDarkOakLeaves+NicerFastLeaves
