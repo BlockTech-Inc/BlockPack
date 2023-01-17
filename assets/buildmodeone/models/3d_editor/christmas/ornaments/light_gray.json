@@ -3,7 +3,7 @@
     "textures": {
         "particle": "minecraft:block/gold_block",
         "texture": "minecraft:block/light_gray_concrete_powder",
-        "ornament": "buildmodeone:3d_editor/models/ornament"
+        "ornament": "buildmodeone:item/3d_editor/models/ornament"
     },
     "elements": [
         {

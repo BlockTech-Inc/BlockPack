@@ -5,7 +5,7 @@
         64
     ],
     "textures": {
-        "2": "buildmodeone:3d_editor/models/plants/lavender"
+        "2": "buildmodeone:item/3d_editor/models/plants/lavender"
     },
     "elements": [
         {

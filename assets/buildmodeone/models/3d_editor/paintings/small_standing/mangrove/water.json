@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/mangrove_planks",
         "texture": "block/mangrove_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/water"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/water"
     },
     "elements": [
         {

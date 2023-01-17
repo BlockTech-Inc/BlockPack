@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "minecraft:block/quartz_block_bottom",
 		"4": "minecraft:block/gray_concrete",
-		"5": "buildmodeone:3d_editor/models/water_still",
+		"5": "buildmodeone:item/3d_editor/models/water_still",
 		"7": "minecraft:block/anvil",
 		"particle": "minecraft:block/quartz_block_bottom"
 	},

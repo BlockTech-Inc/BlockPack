@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/electronics/pc/textures",
-		"2": "buildmodeone:3d_editor/models/electronics/pc/fan_grid",
-		"3": "buildmodeone:3d_editor/models/electronics/pc/fans",
-		"4": "buildmodeone:3d_editor/models/electronics/pc/led",
-		"particle": "buildmodeone:3d_editor/models/electronics/pc/textures"
+		"0": "buildmodeone:item/3d_editor/models/electronics/pc/textures",
+		"2": "buildmodeone:item/3d_editor/models/electronics/pc/fan_grid",
+		"3": "buildmodeone:item/3d_editor/models/electronics/pc/fans",
+		"4": "buildmodeone:item/3d_editor/models/electronics/pc/led",
+		"particle": "buildmodeone:item/3d_editor/models/electronics/pc/textures"
 	},
 	"elements": [
 		{

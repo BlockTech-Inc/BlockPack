@@ -4,7 +4,7 @@
 		"particle": "minecraft:block/white_terracotta",
 		"texture": "minecraft:block/white_concrete",
 		"black": "minecraft:block/black_concrete_powder",
-		"candellit": "buildmodeone:3d_editor/models/candlelit"
+		"candellit": "buildmodeone:item/3d_editor/models/candlelit"
 	},
 	"elements": [ 	 
 		{

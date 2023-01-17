@@ -10,7 +10,7 @@
 		"1_0": "block/coarse_dirt",
 		"1_1": "block/bone_block_side",
 		"1_2": "block/gray_concrete",
-		"1_3": "buildmodeone:3d_editor/models/plants/fern_colored"
+		"1_3": "buildmodeone:item/3d_editor/models/plants/fern_colored"
 	},
 	"elements": [
 		{

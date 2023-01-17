@@ -21,7 +21,7 @@
 		{"predicate": {"custom_model_data":1370013}, "model": "buildmodeone:3d_editor/kitchen/carafe_orange"},
 		{"predicate": {"custom_model_data":1370014}, "model": "buildmodeone:3d_editor/kitchen/carafe_yellow"},
 		{"predicate": {"custom_model_data":1370015}, "model": "buildmodeone:3d_editor/kitchen/carafe_purple"},
-		{"predicate": {"custom_model_data":1370016}, "model": "buildmodeone:3d_editor/bottles/zafiro_anejo"},
+		{"predicate": {"custom_model_data":1370016}, "model": "buildmodeone:3d_editor/bottles/zafiroanejo"},
 		
 		{"predicate": {"custom_model_data":1370017}, "model": "buildmodeone:3d_editor/update"}
 	]

@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/rubiks_cube",
-		"particle": "buildmodeone:3d_editor/models/rubiks_cube"
+		"0": "buildmodeone:item/3d_editor/models/rubiks_cube",
+		"particle": "buildmodeone:item/3d_editor/models/rubiks_cube"
 	},
 	"elements": [ 	 
 		{

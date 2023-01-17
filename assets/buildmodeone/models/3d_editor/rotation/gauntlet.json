@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"particle": "buildmodeone:3d_editor/models/gauntlet",
-		"texture": "buildmodeone:3d_editor/models/gauntlet"
+		"particle": "buildmodeone:item/3d_editor/models/gauntlet",
+		"texture": "buildmodeone:item/3d_editor/models/gauntlet"
 	},
 	"elements": [ 	 
 		{

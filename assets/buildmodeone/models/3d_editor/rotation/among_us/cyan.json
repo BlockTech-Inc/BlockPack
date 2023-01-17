@@ -4,7 +4,7 @@
 		"0": "block/cyan_concrete",
 		"1": "block/black_concrete",
 		"3": "block/cyan_concrete_powder",
-		"4": "buildmodeone:3d_editor/models/nerdstuff/among_us",
+		"4": "buildmodeone:item/3d_editor/models/nerdstuff/among_us",
 		"5": "block/anvil",
 		"particle": "block/cyan_concrete"
 	},

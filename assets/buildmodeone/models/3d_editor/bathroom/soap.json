@@ -2,7 +2,7 @@
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
 		"particle": "minecraft:block/light_gray_concrete",
-		"texture": "buildmodeone:3d_editor/models/soap"
+		"texture": "buildmodeone:item/3d_editor/models/soap"
 	},
 	"elements": [ 	 
 		{

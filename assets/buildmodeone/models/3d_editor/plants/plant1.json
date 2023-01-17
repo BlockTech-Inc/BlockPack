@@ -4,7 +4,7 @@
 		"particle": "minecraft:block/flower_pot",
 		"texture": "minecraft:block/flower_pot",
 		"dirt": "minecraft:block/dirt",
-		"leaves": "buildmodeone:3d_editor/models/plant1",
+		"leaves": "buildmodeone:item/3d_editor/models/plant1",
 		"oak": "minecraft:block/oak_log"
 	},
 	"elements": [ 	 

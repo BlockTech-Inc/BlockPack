@@ -1,13 +1,13 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/water_still",
-		"1": "buildmodeone:3d_editor/models/water_flow",
+		"0": "buildmodeone:item/3d_editor/models/water_still",
+		"1": "buildmodeone:item/3d_editor/models/water_flow",
 		"2": "block/stone",
 		"3": "block/anvil",
 		"4": "block/andesite",
 		"6": "block/stonecutter_bottom",
-		"particle": "buildmodeone:3d_editor/models/water_still"
+		"particle": "buildmodeone:item/3d_editor/models/water_still"
 	},
 	"elements": [
 		{

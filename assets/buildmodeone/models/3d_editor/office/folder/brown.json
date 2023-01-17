@@ -2,9 +2,9 @@
     "credit": "Made with Blockbench",
     "textures": {
         "0": "block/brown_concrete",
-        "1": "buildmodeone:3d_editor/item/book",
+        "1": "buildmodeone:item/3d_editor/items/book",
         "2": "block/iron_block",
-        "3": "buildmodeone:3d_editor/models/paper",
+        "3": "buildmodeone:item/3d_editor/models/paper",
         "particle": "block/black_concrete"
     },
     "elements": [

@@ -6,7 +6,7 @@
 		"4": "block/quartz_pillar",
 		"6": "block/quartz_block_bottom",
 		"7": "block/chiseled_quartz_block_top",
-		"8": "buildmodeone:3d_editor/models/water_still",
+		"8": "buildmodeone:item/3d_editor/models/water_still",
 		"particle": "block/white_concrete"
 	},
 	"elements": [

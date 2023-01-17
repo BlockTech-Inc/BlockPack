@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "minecraft:block/smooth_stone",
 		"texture": "minecraft:block/light_gray_concrete",
-		"x-wing_atlas": "buildmodeone:3d_editor/models/x-wing_atlas"
+		"x-wing_atlas": "buildmodeone:item/3d_editor/models/x-wing_atlas"
 	},
 	"elements": [ 	 
 		{

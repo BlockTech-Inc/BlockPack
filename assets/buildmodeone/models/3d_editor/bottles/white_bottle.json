@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/wine",
+		"0": "buildmodeone:item/3d_editor/models/wine",
 		"particle": "minecraft:block/dark_oak_planks"
 	},
 	"elements": [ 	 

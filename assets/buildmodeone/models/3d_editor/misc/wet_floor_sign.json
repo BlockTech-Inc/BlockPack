@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/yellow_concrete",
 		"1": "block/gray_concrete",
-		"2": "buildmodeone:3d_editor/models/misc/slippery_sign",
+		"2": "buildmodeone:item/3d_editor/models/misc/slippery_sign",
 		"particle": "block/yellow_concrete"
 	},
 	"elements": [

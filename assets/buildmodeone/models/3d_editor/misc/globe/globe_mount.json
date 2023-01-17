@@ -4,7 +4,7 @@
 		"2": "block/barrel_bottom",
 		"3": "block/anvil",
 		"4": "block/blast_furnace_top",
-		"particle": "buildmodeone:3d_editor/models/misc/globe"
+		"particle": "buildmodeone:item/3d_editor/models/misc/globe"
 	},
 	"elements": [
 		{

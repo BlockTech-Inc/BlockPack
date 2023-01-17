@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "buildmodeone:3d_editor/models/electronics/pc_revised/logo",
-		"6": "buildmodeone:3d_editor/models/electronics/pc_revised/black",
+		"5": "buildmodeone:item/3d_editor/models/electronics/pc_revised/logo",
+		"6": "buildmodeone:item/3d_editor/models/electronics/pc_revised/black",
 		"particle": "block/anvil",
 		"white": "block/anvil",
 		"gray": "block/gray_concrete",
-		"keyboard": "buildmodeone:3d_editor/models/electronics/pc_revised/keyboard_edit",
+		"keyboard": "buildmodeone:item/3d_editor/models/electronics/pc_revised/keyboard_edit",
 		"black": "block/black_concrete"
 	},
 	"elements": [

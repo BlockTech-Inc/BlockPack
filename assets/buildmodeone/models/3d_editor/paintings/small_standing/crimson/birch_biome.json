@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/crimson_planks",
         "texture": "block/crimson_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/birch_biome"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/birch_biome"
     },
     "elements": [
         {

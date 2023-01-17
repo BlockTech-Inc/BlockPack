@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/warped_planks",
         "texture": "block/warped_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/earth"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/earth"
     },
     "elements": [
         {

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/anvil",
 		"1": "block/iron_block",
-		"2": "buildmodeone:3d_editor/models/kitchen/logo_bmp",
+		"2": "buildmodeone:item/3d_editor/models/kitchen/logo_bmp",
 		"particle": "block/anvil"
 	},
 	"elements": [
@@ -709,26 +709,31 @@
 		{
 			"name": "Wall",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 		},
 		{
 			"name": "bottom",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [17, 18, 19, 20, 21, 22, 23, 24]
 		},
 		{
 			"name": "Handle",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [25, 26, 27, 28, 29, 30]
 		},
 		{
 			"name": "rim",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
 		},
 		{
 			"name": "Nail",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [47, 48, 49, 50]
 		}
 	]

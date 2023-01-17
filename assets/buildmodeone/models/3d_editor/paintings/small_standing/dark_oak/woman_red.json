@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/dark_oak_planks",
         "texture": "block/dark_oak_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/woman_red"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/woman_red"
     },
     "elements": [
         {

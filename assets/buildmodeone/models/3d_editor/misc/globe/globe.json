@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/misc/globe",
+		"0": "buildmodeone:item/3d_editor/models/misc/globe",
 		"2": "block/barrel_bottom",
 		"3": "block/anvil",
 		"4": "block/blast_furnace_top",
 		"5": "block/iron_block",
-		"particle": "buildmodeone:3d_editor/models/misc/globe"
+		"particle": "buildmodeone:item/3d_editor/models/misc/globe"
 	},
 	"elements": [
 		{

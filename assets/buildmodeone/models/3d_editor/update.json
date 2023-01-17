@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Philipp O. (pro_pixel_) from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/update",
-		"particle": "buildmodeone:3d_editor/models/update"
+		"0": "buildmodeone:item/3d_editor/models/update",
+		"particle": "buildmodeone:item/3d_editor/models/update"
 	},
 	"elements": [
 		{

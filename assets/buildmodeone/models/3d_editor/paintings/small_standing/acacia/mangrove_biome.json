@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/acacia_planks",
         "texture": "block/acacia_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/mangrove_biome"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/mangrove_biome"
     },
     "elements": [
         {

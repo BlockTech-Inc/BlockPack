@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "buildmodeone:3d_editor/models/electronics/pc_revised/logo",
-		"6": "buildmodeone:3d_editor/models/electronics/pc_revised/black",
+		"5": "buildmodeone:item/3d_editor/models/electronics/pc_revised/logo",
+		"6": "buildmodeone:item/3d_editor/models/electronics/pc_revised/black",
 		"gray": "block/gray_concrete",
 		"black": "block/black_concrete"
 	},

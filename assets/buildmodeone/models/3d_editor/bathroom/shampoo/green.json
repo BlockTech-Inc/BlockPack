@@ -2,8 +2,8 @@
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/bathroom/shampoo/green",
-		"particle": "buildmodeone:3d_editor/models/bathroom/shampoo/green"
+		"0": "buildmodeone:item/3d_editor/models/bathroom/shampoo/green",
+		"particle": "buildmodeone:item/3d_editor/models/bathroom/shampoo/green"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"__comment": "Maded by PhilippOph; Created for PixelPack by PhilippOph",
 	"textures": {
-		"particle": "buildmodeone:3d_editor/models/paper",
-		"texture": "buildmodeone:3d_editor/models/paper"
+		"particle": "buildmodeone:item/3d_editor/models/paper",
+		"texture": "buildmodeone:item/3d_editor/models/paper"
 	},
 	"elements": [ 	 
 		{

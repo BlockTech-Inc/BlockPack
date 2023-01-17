@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/toiletpaper",
+		"0": "buildmodeone:item/3d_editor/models/toiletpaper",
 		"1": "minecraft:block/light_gray_concrete",
 		"3": "minecraft:block/gray_concrete",
-		"particle": "buildmodeone:3d_editor/models/toiletpaper"
+		"particle": "buildmodeone:item/3d_editor/models/toiletpaper"
 	},
 	"elements": [ 	 
 		{

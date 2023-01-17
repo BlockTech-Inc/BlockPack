@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/birch_planks",
         "texture": "block/birch_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/woman_gray"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/woman_gray"
     },
     "elements": [
         {

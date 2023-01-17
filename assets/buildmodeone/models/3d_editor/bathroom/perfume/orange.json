@@ -1,8 +1,8 @@
 {
     "credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
     "textures": {
-        "0": "buildmodeone:3d_editor/models/bathroom/perfume/orange",
-        "particle": "buildmodeone:3d_editor/models/bathroom/perfume/orange"
+        "0": "buildmodeone:item/3d_editor/models/bathroom/perfume/orange",
+        "particle": "buildmodeone:item/3d_editor/models/bathroom/perfume/orange"
     },
     "elements": [
         {

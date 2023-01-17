@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/gray_concrete",
 		"1": "block/black_concrete",
-		"3": "buildmodeone:3d_editor/models/electronics/pc/led",
+		"3": "buildmodeone:item/3d_editor/models/electronics/pc/led",
 		"particle": "block/gray_concrete"
 	},
 	"elements": [

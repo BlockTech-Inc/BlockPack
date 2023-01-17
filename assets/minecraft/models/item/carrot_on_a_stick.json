@@ -5,7 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1370001}, "model": "buildmodeone:3d_editor/item/3d_book"},
-		{"predicate": {"custom_model_data":1371000}, "model": "minecraft:item/concrete_fences/items/jackhammer"}
+		{"predicate": {"custom_model_data":1370001}, "model": "buildmodeone:3d_editor/item/3d_book"}
 	]
 }

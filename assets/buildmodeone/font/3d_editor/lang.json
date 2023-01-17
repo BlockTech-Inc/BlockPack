@@ -1,15 +1,8 @@
 {
 	"providers":[
 		{
-            "type": "ttf",
-            "file": "buildmodeone:3d_editor/negative_spaces.ttf",
-            "shift": [0.0, 0.0],
-            "size": 10.0,
-            "oversample": 1.0
-		},
-		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/warning.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/warning.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": [
@@ -18,7 +11,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/deprecated.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/deprecated.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": [
@@ -27,7 +20,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/arrow_up.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/arrow_up.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -36,7 +29,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/arrow_right.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/arrow_right.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -45,7 +38,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/arrow_left.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/arrow_left.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -54,7 +47,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/arrow_down.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/arrow_down.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -63,7 +56,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/finish.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/finish.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -72,7 +65,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/remove_all.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/remove_all.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -81,7 +74,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/remove_position.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/remove_position.png",
 			"ascent": 7.5,
 			"height": 7.5,
 			"chars": [
@@ -90,7 +83,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/deprecated_inline.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/deprecated_inline.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": [
@@ -99,7 +92,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/rgb.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/rgb.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": [
@@ -108,7 +101,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "buildmodeone:3d_editor/font/gui/creator.png",
+			"file": "buildmodeone:item/3d_editor/font/gui/creator.png",
 			"ascent": 7,
 			"height": 8,
 			"chars": [

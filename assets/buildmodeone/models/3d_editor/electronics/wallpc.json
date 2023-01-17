@@ -6,7 +6,7 @@
 		"gray": "minecraft:block/gray_concrete",
 		"lightgray": "minecraft:block/light_gray_concrete",
 		"black": "minecraft:block/black_concrete",
-		"keyboard": "buildmodeone:3d_editor/models/keybord"
+		"keyboard": "buildmodeone:item/3d_editor/models/keybord"
 	},
 	"elements": [ 	 
 		{

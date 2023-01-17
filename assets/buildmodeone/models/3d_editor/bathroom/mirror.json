@@ -2,7 +2,7 @@
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
 		"0": "minecraft:block/quartz_block_bottom",
-		"1": "buildmodeone:3d_editor/models/mirror",
+		"1": "buildmodeone:item/3d_editor/models/mirror",
 		"particle": "minecraft:block/quartz_block_bottom"
 	},
 	"elements": [

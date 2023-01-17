@@ -1,12 +1,12 @@
 {
 	"credit": "Made by Philipp Opheys / pro_pixel_ from BuildmodeOne",
 	"textures": {
-		"0": "buildmodeone:3d_editor/models/kitchen/wood_logo",
+		"0": "buildmodeone:item/3d_editor/models/kitchen/wood_logo",
 		"1": "block/spruce_log",
 		"2": "block/spruce_planks",
 		"3": "block/oak_planks",
 		"4": "block/iron_block",
-		"particle": "buildmodeone:3d_editor/models/kitchen/wood_logo"
+		"particle": "buildmodeone:item/3d_editor/models/kitchen/wood_logo"
 	},
 	"elements": [
 		{

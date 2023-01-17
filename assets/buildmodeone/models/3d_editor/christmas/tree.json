@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "minecraft:block/red_wool",
 		"texture": "minecraft:block/spruce_log",
-		"leaves": "buildmodeone:3d_editor/models/chr_leaves",
+		"leaves": "buildmodeone:item/3d_editor/models/chr_leaves",
 		"yellow": "minecraft:block/yellow_concrete_powder",
 		"red": "minecraft:block/red_concrete_powder",
 		"blue": "minecraft:block/blue_concrete_powder"

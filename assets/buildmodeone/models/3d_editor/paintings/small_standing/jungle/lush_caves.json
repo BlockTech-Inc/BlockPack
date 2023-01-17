@@ -3,7 +3,7 @@
     "textures": {
         "particle": "block/jungle_planks",
         "texture": "block/jungle_planks",
-        "painting": "buildmodeone:3d_editor/models/painting/small_standing/lush_caves"
+        "painting": "buildmodeone:item/3d_editor/models/painting/small_standing/lush_caves"
     },
     "elements": [
         {
