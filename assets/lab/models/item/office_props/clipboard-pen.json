@@ -3,8 +3,8 @@
 	"parent": "item/fullsize",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "lab:office_props/b",
-		"particle": "lab:office_props/b"
+		"0": "item/blocktech/office_props/b",
+		"particle": "item/blocktech/office_props/b"
 	},
 	"elements": [
 		{
