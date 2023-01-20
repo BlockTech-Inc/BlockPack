@@ -302,10 +302,10 @@
             }
         ]
     },
-    "music.speedy-comet":{
+    "music.speedy_comet_intro":{
         "sounds": [
             {
-                "name": "lab:music/speedy-comet",
+                "name": "lab:music/speedy_comet_intro",
                 "stream": true
             }
         ]
@@ -409,26 +409,26 @@
             }
         ]
     },
-    "music.end_of_the_world":{
+    "music.end_of_the_world_intro":{
         "sounds": [
             {
-                "name": "lab:music/end_of_the_world",
+                "name": "lab:music/end_of_the_world_intro",
                 "stream": true
             }
         ]
     },
-    "music.grodus_battle":{
+    "music.grodus_battle_loop":{
         "sounds": [
             {
-                "name": "lab:music/grodus_battle",
+                "name": "lab:music/grodus_battle_loop",
                 "stream": true
             }
         ]
     },
-    "music.bowser_appears":{
+    "music.bowser_appears_intro":{
         "sounds": [
             {
-                "name": "lab:music/bowser_appears",
+                "name": "lab:music/bowser_appears_intro",
                 "stream": true
             }
         ]
@@ -441,10 +441,10 @@
             }
         ]
     },
-    "music.detective_pennington":{
+    "music.pennington_theme_intro":{
         "sounds": [
             {
-                "name": "lab:music/detective_pennington",
+                "name": "lab:music/pennington_theme_intro",
                 "stream": true
             }
         ]
@@ -457,26 +457,74 @@
             }
         ]
     },
-    "music.magnus_von_grapple_battle":{
+    "music.magnus_von_grapple_battle_intro":{
         "sounds": [
             {
-                "name": "lab:music/magnus_von_grapple_battle",
+                "name": "lab:music/magnus_von_grapple_battle_intro",
                 "stream": true
             }
         ]
     },
-    "music.one_shot":{
+    "music.one_shot_intro":{
         "sounds": [
             {
-                "name": "lab:music/one_shot",
+                "name": "lab:music/one_shot_intro",
                 "stream": true
             }
         ]
     },
-    "music.river_twygz_bed":{
+    "music.river_twygz_bed_intro":{
         "sounds": [
             {
-                "name": "lab:music/river_twygz_bed",
+                "name": "lab:music/river_twygz_bed_intro",
+                "stream": true
+            }
+        ]
+    },
+    "music.bowser_appears_loop":{
+        "sounds": [
+            {
+                "name": "lab:music/bowser_appears_loop",
+                "stream": true
+            }
+        ]
+    },
+    "music.end_of_the_world_loop":{
+        "sounds": [
+            {
+                "name": "lab:music/end_of_the_world_loop",
+                "stream": true
+            }
+        ]
+    },
+    "music.one_shot_loop":{
+        "sounds": [
+            {
+                "name": "lab:music/one_shot_loop",
+                "stream": true
+            }
+        ]
+    },
+    "music.pennington_theme_loop":{
+        "sounds": [
+            {
+                "name": "lab:music/pennington_theme_loop",
+                "stream": true
+            }
+        ]
+    },
+    "music.river_twygz_bed_loop":{
+        "sounds": [
+            {
+                "name": "lab:music/river_twygz_bed_loop",
+                "stream": true
+            }
+        ]
+    },
+    "music.speedy_comet_loop":{
+        "sounds": [
+            {
+                "name": "lab:music/speedy_comet_loop",
                 "stream": true
             }
         ]
