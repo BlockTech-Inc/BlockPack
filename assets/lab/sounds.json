@@ -528,5 +528,13 @@
                 "stream": true
             }
         ]
+    },
+    "music.elevator_jam":{
+        "sounds": [
+            {
+                "name": "lab:music/elevator_jam_lsplash",
+                "stream": true
+            }
+        ]
     }
 }
