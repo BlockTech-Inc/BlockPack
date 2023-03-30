@@ -26,6 +26,29 @@
         {
             "type": "single",
             "resource": "entity/trident"
+        },
+        {
+            "type": "directory",
+            "source": "gui/container",
+            "prefix": "gui/container/"
+        },
+        {
+            "type": "directory",
+            "source": "mob_trophy",
+            "prefix": "mob_trophy/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "single",
+            "resource": "gui/container/shulker_box"
+        },
+        {
+            "type": "single",
+            "resource": "gui/resource_packs"
         }
     ]
 }
