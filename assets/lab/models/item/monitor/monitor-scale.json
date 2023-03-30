@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/blocktech/monitor/monitor",
-		"1": "item/blocktech/monitor/monitor_screen/scale",
-		"particle": "item/blocktech/monitor/monitor"
+		"0": "lab:item/monitor/monitor",
+		"1": "lab:item/monitor/monitor_screen/scale",
+		"particle": "lab:item/monitor/monitor"
 	},
 	"elements": [
 		{
