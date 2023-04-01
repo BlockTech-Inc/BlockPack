@@ -1,6 +1,7 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "lab:item/keycard/1"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "lab:keycard/1"
+	}
 }

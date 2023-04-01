@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"2": "lab:item/hats/abyssalite_crown"
+		"2": "lab:hats/abyssalite_crown"
 	},
 	"elements": [
 		{

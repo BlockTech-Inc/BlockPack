@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "lab:item/white_concrete",
-		"1": "lab:item/orange_concrete",
-		"2": "lab:item/hazard",
-		"3": "lab:item/sea_lantern",
-		"particle": "lab:item/white_concrete"
+		"0": "lab:white_concrete",
+		"1": "lab:orange_concrete",
+		"2": "lab:hazard",
+		"3": "lab:sea_lantern",
+		"particle": "lab:white_concrete"
 	},
 	"elements": [
 		{

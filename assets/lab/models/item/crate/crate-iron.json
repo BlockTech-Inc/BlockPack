@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "lab:item/anvil",
-		"1": "lab:item/iron_block",
-		"particle": "lab:item/iron_block"
+		"0": "lab:anvil",
+		"1": "lab:iron_block",
+		"particle": "lab:iron_block"
 	},
 	"elements": [
 		{

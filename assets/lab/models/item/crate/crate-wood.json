@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "lab:item/spruce_planks",
-		"1": "lab:item/oak_planks",
-		"particle": "lab:item/oak_planks"
+		"0": "lab:spruce_planks",
+		"1": "lab:oak_planks",
+		"particle": "lab:oak_planks"
 	},
 	"elements": [
 		{

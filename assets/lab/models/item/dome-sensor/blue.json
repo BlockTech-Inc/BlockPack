@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "lab:item/blue",
-		"particle": "lab:item/blue"
+		"0": "lab:blue",
+		"particle": "lab:blue"
 	},
 	"elements": [
 		{
