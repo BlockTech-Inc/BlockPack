@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lab:item/fluix_pearl",
+        "particle": "lab:item/fluix_pearl"
+    }
+}

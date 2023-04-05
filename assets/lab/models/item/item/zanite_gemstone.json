@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lab:item/zanite_gemstone",
+        "particle": "lab:item/zanite_gemstone"
+    }
+}

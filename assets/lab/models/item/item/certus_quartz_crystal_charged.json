@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lab:item/certus_quartz_crystal_charged",
+        "particle": "lab:item/certus_quartz_crystal_charged"
+    }
+}

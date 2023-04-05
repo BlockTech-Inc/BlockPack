@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/amethyst_shard"
+  },
+  "override":[
+    {
+      "predicate":{"custom_model_data":1},
+      "model": "lab:item/item/certus_quartz_crystal_charged"
+    },
+    {
+      "predicate":{"custom_model_data":2},
+      "model":"lab:item/item/certus_quartz_crystal"
+    },
+    {
+      "predicate":{"custom_model_data":3},
+      "model":"lab:item/item/crystal_shards"
+    },
+    {
+      "predicate":{"custom_model_data":4},
+      "model":"lab:item/item/eternal_crystal"
+    },
+    {
+      "predicate":{"custom_model_data":5},
+      "model":"lab:item/item/fluix_crystal"
+    },
+    {
+      "predicate":{"custom_model_data":6},
+      "model":"lab:item/item/subzero_crystal_shard"
+    }
+  ]
+}

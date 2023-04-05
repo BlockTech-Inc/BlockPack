@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lab:item/black_apple",
+        "particle": "lab:item/black_apple"
+    }
+}

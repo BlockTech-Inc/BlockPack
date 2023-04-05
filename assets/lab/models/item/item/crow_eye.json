@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lab:item/crow_eye",
+        "particle": "lab:item/crow_eye"
+    }
+}
