@@ -2,35 +2,48 @@
     "sources": [
         {
             "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
             "source": "all",
             "prefix": "all/"
         },
         {
             "type": "directory",
-            "source": "entity/chest_boat",
-            "prefix": "entity/chest_boat/"
+            "source": "ui",
+            "prefix": "ui/"
         },
         {
             "type": "directory",
-            "source": "entity/boat",
-            "prefix": "entity/boat/"
-        },
-        {
-            "type": "single",
-            "resource": "entity/chest/normal"
-        },
-        {
-            "type": "single",
-            "resource": "entity/minecart"
-        },
-        {
-            "type": "single",
-            "resource": "entity/trident"
+            "source": "monitor",
+            "prefix": "monitor/"
         },
         {
             "type": "directory",
-            "source": "gui/container",
-            "prefix": "gui/container/"
+            "source": "keycard",
+            "prefix": "keycard/"
+        },
+        {
+            "type": "directory",
+            "source": "hats",
+            "prefix": "hats/"
+        },
+        {
+            "type": "directory",
+            "source": "office_props",
+            "prefix": "office_props/"
+        },
+        {
+            "type": "directory",
+            "source": "armor",
+            "prefix": "armor/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
         },
         {
             "type": "directory",
@@ -39,16 +52,49 @@
         },
         {
             "type": "directory",
-            "source": "entity",
-            "prefix": "entity/"
+            "source": "items",
+            "prefix": "items/"
+        },
+        {
+            "type": "directory",
+            "source": "variated",
+            "prefix": "variated/"
         },
         {
             "type": "single",
-            "resource": "gui/container/shulker_box"
+            "resource": "lab:blue"
         },
         {
             "type": "single",
-            "resource": "gui/resource_packs"
+            "resource": "lab:anvil"
+        },
+        {
+            "type": "single",
+            "resource": "lab:iron_block"
+        },
+        {
+            "type": "single",
+            "resource": "lab:spruce_planks"
+        },
+        {
+            "type": "single",
+            "resource": "lab:oak_planks"
+        },
+        {
+            "type": "single",
+            "resource": "lab:white_concrete"
+        },
+        {
+            "type": "single",
+            "resource": "lab:hazard"
+        },
+        {
+            "type": "single",
+            "resource": "lab:orange_concrete"
+        },
+        {
+            "type": "single",
+            "resource": "lab:sea_lantern"
         }
     ]
 }
