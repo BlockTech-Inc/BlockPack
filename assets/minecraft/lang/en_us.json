@@ -136,7 +136,5 @@
 
     "container.brewing": "\u00a7f\ueff1\u00a7r              Brewing Stand              \u00a7f\ueff2",
 
-    "block.minecraft.deepslate_emerald_ore": "Unlit Sea Lantern",
-    "soundCategory.music": "§4TURN THIS OFF",
-    "soundCategory.record": "Jukebox/Note Block/Music"
+    "block.minecraft.deepslate_emerald_ore": "Unlit Sea Lantern"
 }
