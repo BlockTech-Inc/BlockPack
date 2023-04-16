@@ -536,5 +536,13 @@
                 "stream": true
             }
         ]
+    },
+    "music.ai_ambient_one_mpipe":{
+        "sounds": [
+            {
+                "name": "lab:music/ai_ambient_one_mpipe",
+                "stream": true
+            }
+        ]
     }
 }
