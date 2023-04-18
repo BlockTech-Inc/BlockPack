@@ -544,5 +544,13 @@
                 "stream": true
             }
         ]
+    },
+    "music.cp_violation":{
+        "sounds": [
+            {
+                "name": "lab:music/cp_violation",
+                "stream": true
+            }
+        ]
     }
 }
