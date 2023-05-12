@@ -2,7 +2,7 @@
     "music.core.start": {
         "sounds": [
             {
-                "name": "lab:music/core_start",
+                "name": "blocktech:music/core_start",
                 "stream": true
             }
         ]
@@ -10,7 +10,7 @@
     "music.title": {
         "sounds": [
             {
-                "name": "lab:music/title",
+                "name": "blocktech:music/title",
                 "stream": true
             }
         ]
@@ -19,7 +19,7 @@
         "subtitle": "click",
         "sounds": [
             {
-                "name": "lab:ambient/airlock/button"
+                "name": "blocktech:ambient/airlock/button"
             }
         ]
     },
@@ -27,7 +27,7 @@
         "subtitle": "Door Closes",
         "sounds": [
             {
-                "name": "lab:ambient/airlock/door_close"
+                "name": "blocktech:ambient/airlock/door_close"
             }
         ]
     },
@@ -35,7 +35,7 @@
         "subtitle": "Door Opens",
         "sounds": [
             {
-                "name": "lab:ambient/airlock/door_open"
+                "name": "blocktech:ambient/airlock/door_open"
             }
         ]
     },
@@ -43,7 +43,7 @@
         "subtitle": "Airlock Cycles",
         "sounds": [
             {
-                "name": "lab:ambient/airlock/flow",
+                "name": "blocktech:ambient/airlock/flow",
                 "stream": true
             }
         ]
@@ -52,7 +52,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm1"
+                "name": "blocktech:ambient/alarm/alarm1"
             }
         ]
     },
@@ -60,7 +60,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm2"
+                "name": "blocktech:ambient/alarm/alarm2"
             }
         ]
     },
@@ -68,7 +68,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm3"
+                "name": "blocktech:ambient/alarm/alarm3"
             }
         ]
     },
@@ -76,7 +76,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm4"
+                "name": "blocktech:ambient/alarm/alarm4"
             }
         ]
     },
@@ -84,7 +84,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm5"
+                "name": "blocktech:ambient/alarm/alarm5"
             }
         ]
     },
@@ -92,7 +92,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm6"
+                "name": "blocktech:ambient/alarm/alarm6"
             }
         ]
     },
@@ -100,7 +100,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm7"
+                "name": "blocktech:ambient/alarm/alarm7"
             }
         ]
     },
@@ -108,14 +108,14 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/alarm8"
+                "name": "blocktech:ambient/alarm/alarm8"
             }
         ]
     },
     "ambient.bounce": {
         "sounds": [
             {
-                "name": "lab:ambient/bounce"
+                "name": "blocktech:ambient/bounce"
             }
         ]
     },
@@ -123,7 +123,7 @@
         "subtitle": "§opsssh",
         "sounds": [
             {
-                "name": "lab:ambient/psssh"
+                "name": "blocktech:ambient/psssh"
             }
         ]
     },
@@ -131,13 +131,13 @@
         "subtitle": "Computer Beeps",
         "sounds": [
             {
-                "name": "lab:ambient/button/computer/c1_b1"
+                "name": "blocktech:ambient/button/computer/c1_b1"
             },
             {
-                "name": "lab:ambient/button/computer/c1_b2"
+                "name": "blocktech:ambient/button/computer/c1_b2"
             },
             {
-                "name": "lab:ambient/button/computer/c1_b3"
+                "name": "blocktech:ambient/button/computer/c1_b3"
             }
         ]
     },
@@ -145,27 +145,27 @@
         "subtitle": "Computer Beeps",
         "sounds": [
             {
-                "name": "lab:ambient/button/computer/c2_b1"
+                "name": "blocktech:ambient/button/computer/c2_b1"
             },
             {
-                "name": "lab:ambient/button/computer/c2_b2"
+                "name": "blocktech:ambient/button/computer/c2_b2"
             },
             {
-                "name": "lab:ambient/button/computer/c2_b3"
+                "name": "blocktech:ambient/button/computer/c2_b3"
             }
         ]
     },
     "ambient.motor": {
         "sounds": [
             {
-                "name": "lab:ambient/motor"
+                "name": "blocktech:ambient/motor"
             }
         ]
     },
     "ambient.heli": {
         "sounds": [
             {
-                "name": "lab:ambient/heli",
+                "name": "blocktech:ambient/heli",
                 "stream": true
             }
         ]
@@ -174,21 +174,21 @@
         "subtitle": "Toilet Flushes",
         "sounds": [
             {
-                "name": "lab:ambient/flush"
+                "name": "blocktech:ambient/flush"
             }
         ]
     },
     "ambient.jet": {
         "sounds": [
             {
-                "name": "lab:ambient/jet"
+                "name": "blocktech:ambient/jet"
             }
         ]
     },
     "ambient.radio-chatter": {
         "sounds": [
             {
-                "name": "lab:ambient/radio-chatter"
+                "name": "blocktech:ambient/radio-chatter"
             }
         ]
     },
@@ -196,7 +196,7 @@
         "subtitle": "Core Hums",
         "sounds": [
             {
-                "name": "lab:ambient/corehum"
+                "name": "blocktech:ambient/corehum"
             }
         ]
     },
@@ -204,77 +204,77 @@
         "subtitle": "Core Hums",
         "sounds": [
             {
-                "name": "lab:ambient/corehum2"
+                "name": "blocktech:ambient/corehum2"
             }
         ]
     },
     "ambient.gotowarp": {
         "sounds": [
             {
-                "name": "lab:ambient/gotowarp"
+                "name": "blocktech:ambient/gotowarp"
             }
         ]
     },
     "ambient.power.on": {
         "sounds": [
             {
-                "name": "lab:ambient/power_on"
+                "name": "blocktech:ambient/power_on"
             }
         ]
     },
     "ambient.power.off": {
         "sounds": [
             {
-                "name": "lab:ambient/power_off"
+                "name": "blocktech:ambient/power_off"
             }
         ]
     },
     "ambient.pumps": {
         "sounds": [
             {
-                "name": "lab:ambient/pumps"
+                "name": "blocktech:ambient/pumps"
             }
         ]
     },
     "ambient.airlock.broken_cycle": {
         "sounds": [
             {
-                "name": "lab:ambient/airlock/broken_cycle"
+                "name": "blocktech:ambient/airlock/broken_cycle"
             }
         ]
     },
     "ambient.bwoom": {
         "sounds": [
             {
-                "name": "lab:ambient/bwoom"
+                "name": "blocktech:ambient/bwoom"
             }
         ]
     },
     "ambient.core.hum-2": {
         "sounds": [
             {
-                "name": "lab:ambient/core-ambient-alt"
+                "name": "blocktech:ambient/core-ambient-alt"
             }
         ]
     },
     "ambient.laser": {
         "sounds": [
             {
-                "name": "lab:ambient/laser"
+                "name": "blocktech:ambient/laser"
             }
         ]
     },
     "ambient.fan": {
         "sounds": [
             {
-                "name": "lab:ambient/fan"
+                "name": "blocktech:ambient/fan"
             }
         ]
     },
     "music.archives": {
         "sounds": [
             {
-                "name": "lab:music/archives",
+                "name": "blocktech:music/archives",
                 "stream": true
             }
         ]
@@ -282,7 +282,7 @@
     "music.gerudo_valley": {
         "sounds": [
             {
-                "name": "lab:music/gerudo_valley",
+                "name": "blocktech:music/gerudo_valley",
                 "stream": true
             }
         ]
@@ -290,14 +290,14 @@
     "ambient.how-does-it-work": {
         "sounds": [
             {
-                "name": "lab:ambient/how-does-it-work"
+                "name": "blocktech:ambient/how-does-it-work"
             }
         ]
     },
     "music.escape":{
         "sounds": [
             {
-                "name": "lab:music/escape",
+                "name": "blocktech:music/escape",
                 "stream": true
             }
         ]
@@ -305,7 +305,7 @@
     "music.speedy_comet_intro":{
         "sounds": [
             {
-                "name": "lab:music/speedy_comet_intro",
+                "name": "blocktech:music/speedy_comet_intro",
                 "stream": true
             }
         ]
@@ -313,35 +313,35 @@
     "voice.evacuation_prep":{
         "sounds": [
             {
-                "name": "lab:voice/evacuation_prep"
+                "name": "blocktech:voice/evacuation_prep"
             }
         ]
     },
     "voice.no_safeguards":{
         "sounds": [
             {
-                "name": "lab:voice/no_safeguards"
+                "name": "blocktech:voice/no_safeguards"
             }
         ]
     },
     "voice.annoucements.shitpost_1":{
         "sounds": [
             {
-                "name": "lab:voice/shitpost_1"
+                "name": "blocktech:voice/shitpost_1"
             }
         ]
     },
     "voice.annoucements.dr_pedro_return_to_pen":{
         "sounds": [
             {
-                "name": "lab:voice/dr_pedro_return_to_pen"
+                "name": "blocktech:voice/dr_pedro_return_to_pen"
             }
         ]
     },
     "ambient.airlock.big_airlock_open":{
         "sounds": [
             {
-                "name": "lab:ambient/airlock/big_airlock_open"
+                "name": "blocktech:ambient/airlock/big_airlock_open"
             }
         ],
         "subtitle": "Pressurized Door Opens"
@@ -349,7 +349,7 @@
     "ambient.airlock.big_airlock_close":{
         "sounds": [
             {
-                "name": "lab:ambient/airlock/big_airlock_close"
+                "name": "blocktech:ambient/airlock/big_airlock_close"
             }
         ],
         "subtitle": "Pressurized Door Closes"
@@ -358,31 +358,31 @@
         "subtitle": "Hard!",
         "sounds": [
             {
-                "name": "lab:voice/hard"
+                "name": "blocktech:voice/hard"
             }
         ]
     },
     "ambient.thwomp":{
         "sounds": [
             {
-                "name": "lab:ambient/thwomp/eeurgh"
+                "name": "blocktech:ambient/thwomp/eeurgh"
             },
             {
-                "name": "lab:ambient/thwomp/eurgh"
+                "name": "blocktech:ambient/thwomp/eurgh"
             }
         ]
     },
     "voice.omega_evac_level_5":{
         "sounds":[
             {
-                "name": "lab:voice/omega_evac_level_5"
+                "name": "blocktech:voice/omega_evac_level_5"
             }
         ]
     },
     "voice.annoucements.happy_birthday_gus":{
         "sounds": [
             {
-                "name": "lab:voice/happy_birthday_gus"
+                "name": "blocktech:voice/happy_birthday_gus"
             }
         ]
     },
@@ -390,7 +390,7 @@
         "subtitle": "Alarm Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/missile_alarm"
+                "name": "blocktech:ambient/alarm/missile_alarm"
             }
         ]
     },
@@ -398,21 +398,21 @@
         "subtitle": "Siren Sounds",
         "sounds": [
             {
-                "name": "lab:ambient/alarm/tornado_siren"
+                "name": "blocktech:ambient/alarm/tornado_siren"
             }
         ]
     },
     "voice.annoucements.doctor_ken_sector_b":{
         "sounds": [
             {
-                "name": "lab:voice/dr_ken_sctr_b"
+                "name": "blocktech:voice/dr_ken_sctr_b"
             }
         ]
     },
     "music.end_of_the_world_intro":{
         "sounds": [
             {
-                "name": "lab:music/end_of_the_world_intro",
+                "name": "blocktech:music/end_of_the_world_intro",
                 "stream": true
             }
         ]
@@ -420,7 +420,7 @@
     "music.grodus_battle_loop":{
         "sounds": [
             {
-                "name": "lab:music/grodus_battle_loop",
+                "name": "blocktech:music/grodus_battle_loop",
                 "stream": true
             }
         ]
@@ -428,7 +428,7 @@
     "music.bowser_appears_intro":{
         "sounds": [
             {
-                "name": "lab:music/bowser_appears_intro",
+                "name": "blocktech:music/bowser_appears_intro",
                 "stream": true
             }
         ]
@@ -436,7 +436,7 @@
     "music.breezy_mushrise_park":{
         "sounds": [
             {
-                "name": "lab:music/breezy_mushrise_park_sunny_days_mix",
+                "name": "blocktech:music/breezy_mushrise_park_sunny_days_mix",
                 "stream": true
             }
         ]
@@ -444,7 +444,7 @@
     "music.pennington_theme_intro":{
         "sounds": [
             {
-                "name": "lab:music/pennington_theme_intro",
+                "name": "blocktech:music/pennington_theme_intro",
                 "stream": true
             }
         ]
@@ -452,7 +452,7 @@
     "ambient.grodus_room":{
         "sounds": [
             {
-                "name": "lab:ambient/grodus_room",
+                "name": "blocktech:ambient/grodus_room",
                 "stream": true
             }
         ]
@@ -460,7 +460,7 @@
     "music.magnus_von_grapple_battle_intro":{
         "sounds": [
             {
-                "name": "lab:music/magnus_von_grapple_battle_intro",
+                "name": "blocktech:music/magnus_von_grapple_battle_intro",
                 "stream": true
             }
         ]
@@ -468,7 +468,7 @@
     "music.one_shot_intro":{
         "sounds": [
             {
-                "name": "lab:music/one_shot_intro",
+                "name": "blocktech:music/one_shot_intro",
                 "stream": true
             }
         ]
@@ -476,7 +476,7 @@
     "music.river_twygz_bed_intro":{
         "sounds": [
             {
-                "name": "lab:music/river_twygz_bed_intro",
+                "name": "blocktech:music/river_twygz_bed_intro",
                 "stream": true
             }
         ]
@@ -484,7 +484,7 @@
     "music.bowser_appears_loop":{
         "sounds": [
             {
-                "name": "lab:music/bowser_appears_loop",
+                "name": "blocktech:music/bowser_appears_loop",
                 "stream": true
             }
         ]
@@ -492,7 +492,7 @@
     "music.end_of_the_world_loop":{
         "sounds": [
             {
-                "name": "lab:music/end_of_the_world_loop",
+                "name": "blocktech:music/end_of_the_world_loop",
                 "stream": true
             }
         ]
@@ -500,7 +500,7 @@
     "music.one_shot_loop":{
         "sounds": [
             {
-                "name": "lab:music/one_shot_loop",
+                "name": "blocktech:music/one_shot_loop",
                 "stream": true
             }
         ]
@@ -508,7 +508,7 @@
     "music.pennington_theme_loop":{
         "sounds": [
             {
-                "name": "lab:music/pennington_theme_loop",
+                "name": "blocktech:music/pennington_theme_loop",
                 "stream": true
             }
         ]
@@ -516,7 +516,7 @@
     "music.river_twygz_bed_loop":{
         "sounds": [
             {
-                "name": "lab:music/river_twygz_bed_loop",
+                "name": "blocktech:music/river_twygz_bed_loop",
                 "stream": true
             }
         ]
@@ -524,7 +524,7 @@
     "music.speedy_comet_loop":{
         "sounds": [
             {
-                "name": "lab:music/speedy_comet_loop",
+                "name": "blocktech:music/speedy_comet_loop",
                 "stream": true
             }
         ]
@@ -532,7 +532,7 @@
     "music.elevator_jam":{
         "sounds": [
             {
-                "name": "lab:music/elevator_jam_lsplash",
+                "name": "blocktech:music/elevator_jam_lsplash",
                 "stream": true
             }
         ]
@@ -540,7 +540,7 @@
     "music.ai_ambient_one_mpipe":{
         "sounds": [
             {
-                "name": "lab:music/ai_ambient_one_mpipe",
+                "name": "blocktech:music/ai_ambient_one_mpipe",
                 "stream": true
             }
         ]
@@ -548,7 +548,7 @@
     "music.cp_violation":{
         "sounds": [
             {
-                "name": "lab:music/cp_violation",
+                "name": "blocktech:music/cp_violation",
                 "stream": true
             }
         ]
