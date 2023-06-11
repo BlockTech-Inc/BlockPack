@@ -5,6 +5,10 @@
   },
   "overrides":[
     {
+      "predicate":{"custom_model_data":1},
+      "model":"error:error"
+    },
+    {
       "predicate":{"custom_model_data":6},
       "model":"lab:item/monitor/monitor-boat"
     },
