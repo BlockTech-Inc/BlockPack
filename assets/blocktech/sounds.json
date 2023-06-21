@@ -552,5 +552,12 @@
                 "stream": true
             }
         ]
+    },
+    "ambient.impulse":{
+        "sounds": [
+            {
+                "name": "blocktech:ambient/impulse"
+            }
+        ]
     }
 }
