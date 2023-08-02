@@ -136,5 +136,7 @@
 
     "container.brewing": "\u00a7f\ueff1\u00a7r              Brewing Stand              \u00a7f\ueff2",
 
-    "block.minecraft.deepslate_emerald_ore": "Unlit Sea Lantern"
+    "block.minecraft.deepslate_emerald_ore": "Unlit Sea Lantern",
+    "entity.minecraft.villager.cleric": "Scientist",
+    "subtitles.entity.villager.work_cleric": "Scientist works"
 }
