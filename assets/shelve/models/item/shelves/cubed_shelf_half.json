@@ -1,0 +1,18 @@
+{
+	"parent": "block/cube",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"down": "block/crimson_planks",
+		"up": "block/crimson_planks",
+		"north": "shelve:block/cubed_shelf_half",
+		"south": "shelve:block/cubed_shelf_half",
+        "east": "block/crimson_planks",
+		"west": "block/crimson_planks"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}

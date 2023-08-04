@@ -1,7 +1,9 @@
 {
 	"%1$s%1111236608$s": "%2$s",
-	"bob.subtitles.item.banner.change_bedsheets": "Geweschselt Bettlaken",
-	"bob.commands.function.uninstall": "Deinstallation...",
+	"bob.entity.bed_pattern": "Deckenmuster",
+	"bob.entity.pillow": "Kopfkissen",
+	"bob.subtitles.item.banner.change_bedsheets": "Bettlaken gewechselt",
+	"bob.commands.function.uninstall": "Deinstallire...",
 	"bob.commands.function.uninstall.finished": "Erfolgreich deinstalliert.",
 	"bob.advancements.bob.description": "Benutzen ein Banner am Bett, um die Bettlaken zu wechseln"
 }

@@ -1,0 +1,18 @@
+{
+	"parent": "block/cube",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"down": "block/oak_planks",
+		"up": "block/oak_planks",
+		"north": "shelve:block/shelf",
+		"south": "shelve:block/shelf",
+        "east": "block/oak_planks",
+		"west": "block/oak_planks"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "block/cube_top",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"side": "shelve:block/crate_side",
+		"top": "#lid"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}

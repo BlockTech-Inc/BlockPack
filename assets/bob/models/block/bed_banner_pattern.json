@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"elements": [
 		{
-			"from": [0, 5.625, 8.1],
-			"to": [16, 5.625, 32],
+			"from": [0, 8.01, 8.1],
+			"to": [16, 8.01, 32],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
@@ -21,7 +21,7 @@
 	"display": {
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, -40.83, 0],
+			"translation": [0, -43.2, 0],
 			"scale": [1.6, 1, 1.6]
 		}
 	}

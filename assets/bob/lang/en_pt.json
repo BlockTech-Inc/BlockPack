@@ -1,5 +1,7 @@
 {
 	"%1$s%1111236608$s": "%2$s",
+	"bob.entity.bed_pattern": "Bunk silk",
+	"bob.entity.pillow": "Pillow",
 	"bob.subtitles.item.banner.change_bedsheets": "Bunk prettied",
 	"bob.commands.function.uninstall": "Aborting mission...",
 	"bob.commands.function.uninstall.finished": "Mission aborted.",

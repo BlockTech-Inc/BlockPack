@@ -1,7 +1,9 @@
 {
 	"%1$s%1111236608$s": "%2$s",
+	"bob.entity.bed_pattern": "Wzór prześcieradła",
+	"bob.entity.pillow": "Poduszka",
 	"bob.subtitles.item.banner.change_bedsheets": "Zmieniono pościel",
-	"bob.commands.function.uninstall": "Odinstalowanie...",
+	"bob.commands.function.uninstall": "Odinstalowywanie...",
 	"bob.commands.function.uninstall.finished": "Pomyślnie odinstalowany.",
-	"bob.advancements.bob.description": "Użyj sztandaru na łóżku aby zmienić pościel"
+	"bob.advancements.bob.description": "Użyj sztandar na łóżku aby zmienić pościel"
 }

@@ -249,6 +249,12 @@
 				"custom_model_data": 4320041
 			},
 			"model": "bob:block/half_horizontal_bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4320100
+			},
+			"model": "bob:block/pillow"
 		}
 	]
 }

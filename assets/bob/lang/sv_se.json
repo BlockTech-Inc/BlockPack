@@ -1,5 +1,7 @@
 {
 	"%1$s%1111236608$s": "%2$s",
+	"bob.entity.bed_pattern": "Sängklädsmönster",
+	"bob.entity.pillow": "Kudde",
 	"bob.subtitles.item.banner.change_bedsheets": "Byte sängkläder",
 	"bob.commands.function.uninstall": "Avinstallering...",
 	"bob.commands.function.uninstall.finished": "Avinstallerades framgångsrikt.",

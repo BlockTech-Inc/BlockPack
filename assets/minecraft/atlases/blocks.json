@@ -1,68 +1,448 @@
 {
     "sources": [
         {
-            "type": "directory",
-            "source": "entity",
-            "prefix": "entity/"
+            "type": "single",
+            "resource": "shelve:custom_particles/firelight_1"
         },
         {
-            "type": "directory",
-            "source": "all",
-            "prefix": "all/"
+            "type": "single",
+            "resource": "shelve:custom_particles/blank"
         },
         {
-            "type": "directory",
-            "source": "ui",
-            "prefix": "ui/"
+            "type": "single",
+            "resource": "shelve:custom_particles/firelight_3"
         },
         {
-            "type": "directory",
-            "source": "monitor",
-            "prefix": "monitor/"
+            "type": "single",
+            "resource": "shelve:custom_particles/firelight_2"
         },
         {
-            "type": "directory",
-            "source": "keycard",
-            "prefix": "keycard/"
+            "type": "single",
+            "resource": "shelve:custom_particles/firelight_4"
         },
         {
-            "type": "directory",
-            "source": "hats",
-            "prefix": "hats/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/verdegris_shovel"
         },
         {
-            "type": "directory",
-            "source": "office_props",
-            "prefix": "office_props/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/rock_stone"
         },
         {
-            "type": "directory",
-            "source": "armor",
-            "prefix": "armor/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/desert_tablet"
         },
         {
-            "type": "directory",
-            "source": "gui",
-            "prefix": "gui/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/ice_stone"
         },
         {
-            "type": "directory",
-            "source": "mob_trophy",
-            "prefix": "mob_trophy/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/void_cube"
         },
         {
-            "type": "directory",
-            "source": "items",
-            "prefix": "items/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/jungle_tablet"
         },
         {
-            "type": "directory",
-            "source": "variated",
-            "prefix": "variated/"
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/old_sword"
+        },
+        {
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/woodland_tablet"
+        },
+        {
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/cursed_skull"
+        },
+        {
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/water_stone"
+        },
+        {
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/trusty_rusty"
+        },
+        {
+            "type": "single",
+            "resource": "fruitful_loot:loot_textures/fire_stone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/square_top_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/half_horizontal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/square_top_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_center"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/flower"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_downleft"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/half_vertical_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/curly_border"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/diagonal_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/globe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/triangle_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/diagonal_up_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/diagonal_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/circle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/creeper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/square_bottom_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/rhombus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_downright"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/skull"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/diagonal_up_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/gradient_up"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/triangles_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/gradient"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/bed/black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/base"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/triangle_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/stripe_middle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/cross"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/triangles_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/half_horizontal_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/border"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/half_vertical"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/small_stripes"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/square_bottom_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/straight_cross"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/mojang"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/banner/piglin"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/qaicon"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/healthcross"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/texturedmaterials2"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/aiming"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/rgbsheet1"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/glasspanetexture"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/qavassets1"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/qavlicenseplates"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/freediamondstext"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/qavassets2"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/texturedmaterials1"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/camo"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/qavassets4"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/mojangflag"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/texturedmaterials4"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/qavassets3"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/changingtextures"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/texturedmaterials3"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/grenades"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/rpg"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/fnfal"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/whitenorange"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/texturedmaterials5"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/remington"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/makarov"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/csgotext2"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/animaltextures_4"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/animaltextures_3"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/animaltextures_2"
+        },
+        {
+            "type": "single",
+            "resource": "qualityarmory:all/animaltextures_1"
+        },
+        {
+            "type": "single",
+            "resource": "crc:ui/table"
+        },
+        {
+            "type": "single",
+            "resource": "crc:ui/blank"
+        },
+        {
+            "type": "single",
+            "resource": "crc:ui/book"
+        },
+        {
+            "type": "single",
+            "resource": "lab:monitor/monitor"
+        },
+        {
+            "type": "single",
+            "resource": "lab:monitor/monitor_screen/boat"
+        },
+        {
+            "type": "single",
+            "resource": "lab:monitor/monitor_screen/original"
+        },
+        {
+            "type": "single",
+            "resource": "lab:monitor/monitor_screen/glitch"
+        },
+        {
+            "type": "single",
+            "resource": "lab:monitor/monitor_screen/scale"
         },
         {
             "type": "single",
             "resource": "lab:blue"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/6"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/7"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/1"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/2"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/3"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/8"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/4"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/5"
+        },
+        {
+            "type": "single",
+            "resource": "lab:keycard/9"
+        },
+        {
+            "type": "single",
+            "resource": "lab:hats/abyssalite_crown"
+        },
+        {
+            "type": "single",
+            "resource": "lab:office_props/b"
+        },
+        {
+            "type": "single",
+            "resource": "lab:office_props/d"
+        },
+        {
+            "type": "single",
+            "resource": "lab:office_props/c"
         },
         {
             "type": "single",
@@ -82,6 +462,22 @@
         },
         {
             "type": "single",
+            "resource": "lab:armor/abyssalite/abyssalite_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "lab:armor/abyssalite/abyssalite_boots"
+        },
+        {
+            "type": "single",
+            "resource": "lab:armor/abyssalite/abyssalite_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "lab:armor/abyssalite/abyssalite_helmet"
+        },
+        {
+            "type": "single",
             "resource": "lab:white_concrete"
         },
         {
@@ -95,6 +491,170 @@
         {
             "type": "single",
             "resource": "lab:sea_lantern"
+        },
+        {
+            "type": "single",
+            "resource": "lab:gui/advancements/notifications"
+        },
+        {
+            "type": "single",
+            "resource": "lab:gui/advancements/alarms"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mob_trophy/pedestal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/enderman/enderman"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mob_trophy/enderman_skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mob_trophy/creeper_trophy_skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/creeper/creeper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mob_trophy/creeper_skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/silverfish"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mob_trophy/creeper_trophy_creeper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:gui/container/shulker_box"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:gui/resource_packs"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:gui/container/crafting_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/minecart"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/chest_boat/oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/acacia"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/bell/bell_body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/birch"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/mangrove"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:items/QAICON"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/dark_oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/chest/normal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/spruce"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/jungle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/10"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/11"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/12"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/13"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/8"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/14"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/15"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:variated/mycelium_top/9"
         }
     ]
 }

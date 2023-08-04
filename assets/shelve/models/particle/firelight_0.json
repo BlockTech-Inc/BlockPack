@@ -1,0 +1,7 @@
+{
+	"parent": "shelve:particle/template_particle",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "shelve:custom_particles/blank"
+	}
+}

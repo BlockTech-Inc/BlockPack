@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "minecraft:entity/bed/black"
+	},
+	"elements": [
+		{
+			"from": [2, 8.005, 1],
+			"to": [14, 8.005, 8],
+			"faces": {
+				"up": {
+					"uv": [2, 1.75, 5, 3.5],
+					"texture": "#0",
+					"tintindex": 0
+				}
+			}
+		}
+	]
+}

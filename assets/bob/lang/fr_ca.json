@@ -1,5 +1,7 @@
 {
 	"%1$s%1111236608$s": "%2$s",
+	"bob.entity.bed_pattern": "Motif de drap",
+	"bob.entity.pillow": "Oreiller",
 	"bob.subtitles.item.banner.change_bedsheets": "Draps changés",
 	"bob.commands.function.uninstall": "Désinstallation...",
 	"bob.commands.function.uninstall.finished": "Désinstallé avec succès.",
