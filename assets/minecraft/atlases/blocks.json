@@ -550,6 +550,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:entity/signs/hanging/mangrove"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/chest_boat/oak"
         },
         {
@@ -558,7 +562,23 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:entity/signs/oak"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/bell/bell_body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/warped"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/dark_oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/dark_oak"
         },
         {
             "type": "single",
@@ -570,7 +590,15 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:entity/signs/bamboo"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/boat/oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/acacia"
         },
         {
             "type": "single",
@@ -578,7 +606,35 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:entity/signs/crimson"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/crimson"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/bamboo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/cherry"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/birch"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/mangrove"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/boat/dark_oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/acacia"
         },
         {
             "type": "single",
@@ -586,11 +642,55 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:entity/chest_boat/bamboo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/spruce"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/boat/spruce"
         },
         {
             "type": "single",
+            "resource": "minecraft:entity/signs/cherry"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/jungle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/jungle"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/boat/jungle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/spruce"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/warped"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/birch"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/bamboo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/boat/cherry"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/signs/hanging/oak"
         },
         {
             "type": "single",
