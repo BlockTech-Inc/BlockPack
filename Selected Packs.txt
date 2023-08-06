@@ -1,47 +1,8 @@
 Vanilla Tweaks Resource Pack
-Version: 1.19
+Version: 1.20
 Packs:
-	HDShieldBanners
-	UniqueDyes
-	BetterBedrock
-	SmootherStones
-	CircleLogTops
-	SmootherOakLog
-	VariatedBookshelves
-	VariatedUnpolishedStones
-	VariatedTerracotta
-	VariatedStone
-	VariatedPlanks
-	VariatedGravel
-	VariatedEndStone
-	VariatedMushroomBlocks
-	VariatedLogs
-	VariatedBricks
-	RandomMossRotation
-	VariatedCobblestone
-	RandomCoarseDirtRotation
-	VariatedDirt
-	VariatedMycelium
-	VariatedGrass
-	StickyPistonSides
-	ClearBannerPatterns
-	DirectionalDispensersDroppers
-	VisualInfestedStoneItems
-	VisualWaxedCopperItems
-	BrewingGuide
-	AlternateEnchantGlint
-	CleanerWorldBorder
-	3DTiles
-	3DChains
-	3DStonecutters
-	3DSunMoon
-	SmootherFont
-	NoJavaEditionTitle
-	BedrockDriedKelpItem
 	CloudFogFix
-	CatFix
 	HoeFix
-	DoubleSlabFix
 	IronBarsFix
 	SlimeParticleFix
 	BlazeFix
@@ -59,10 +20,48 @@ Packs:
 	JappaToasts
 	ItemStitchingFix
 	ConsistentTadpoleBucket
+	ConsistentUIFix
+	DoubleSlabFix
+	BedrockDriedKelpItem
+	SmootherFont
+	3DTiles
+	3DChains
+	3DStonecutters
+	3DSunMoon
+	AlternateEnchantGlint
+	CleanerWorldBorder
+	StickyPistonSides
+	ClearBannerPatterns
+	DirectionalDispensersDroppers
+	VisualInfestedStoneItems
+	VisualWaxedCopperItems
+	BrewingGuide
+	MusicDiscRedstonePreview
+	VisualHoney
+	VisualSaplingGrowth
+	VariatedBookshelves
+	VariatedUnpolishedStones
+	VariatedTerracotta
+	VariatedStone
+	VariatedPlanks
+	VariatedGravel
+	VariatedEndStone
+	VariatedMushroomBlocks
+	VariatedLogs
+	VariatedBricks
+	RandomMossRotation
+	VariatedCobblestone
+	RandomCoarseDirtRotation
+	VariatedDirt
+	VariatedMycelium
+	VariatedGrass
+	BetterBedrock
+	CircleLogTops
+	SmootherOakLog
+	HDShieldBanners
+	UniqueDyes
 	NicerFastLeaves
 	DarkerDarkOakLeaves
-	JappaRecipeButton
-	ConsistentUIFix
 	ProperBreakParticles
 	DirectionalHoppers
 	JappaObserver
@@ -74,5 +73,4 @@ Combined packs:
 	ItemHoldFix+NoBowlParticles
 	BetterObservers+JappaObserver
 	DirectionalHoppers+ProperBreakParticles
-	ConsistentUIFix+JappaRecipeButton
 	DarkerDarkOakLeaves+NicerFastLeaves
