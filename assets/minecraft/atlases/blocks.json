@@ -70,6 +70,138 @@
         },
         {
             "type": "single",
+            "resource": "blocktech:monitor/monitor"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:monitor/monitor_screen/boat"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:monitor/monitor_screen/original"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:monitor/monitor_screen/glitch"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:monitor/monitor_screen/scale"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:blue"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/6"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/7"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/1"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/2"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/3"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/8"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/4"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/5"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:keycard/9"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:hats/abyssalite_crown"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:office_props/b"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:office_props/d"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:office_props/c"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:anvil"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:iron_block"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:spruce_planks"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:oak_planks"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:armor/abyssalite/abyssalite_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:armor/abyssalite/abyssalite_boots"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:armor/abyssalite/abyssalite_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:armor/abyssalite/abyssalite_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:white_concrete"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:hazard"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:orange_concrete"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:sea_lantern"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:gui/advancements/notifications"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:gui/advancements/alarms"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:entity/banner/square_top_left"
         },
         {
@@ -367,138 +499,6 @@
         {
             "type": "single",
             "resource": "crc:ui/book"
-        },
-        {
-            "type": "single",
-            "resource": "lab:monitor/monitor"
-        },
-        {
-            "type": "single",
-            "resource": "lab:monitor/monitor_screen/boat"
-        },
-        {
-            "type": "single",
-            "resource": "lab:monitor/monitor_screen/original"
-        },
-        {
-            "type": "single",
-            "resource": "lab:monitor/monitor_screen/glitch"
-        },
-        {
-            "type": "single",
-            "resource": "lab:monitor/monitor_screen/scale"
-        },
-        {
-            "type": "single",
-            "resource": "lab:blue"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/6"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/7"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/1"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/2"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/3"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/8"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/4"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/5"
-        },
-        {
-            "type": "single",
-            "resource": "lab:keycard/9"
-        },
-        {
-            "type": "single",
-            "resource": "lab:hats/abyssalite_crown"
-        },
-        {
-            "type": "single",
-            "resource": "lab:office_props/b"
-        },
-        {
-            "type": "single",
-            "resource": "lab:office_props/d"
-        },
-        {
-            "type": "single",
-            "resource": "lab:office_props/c"
-        },
-        {
-            "type": "single",
-            "resource": "lab:anvil"
-        },
-        {
-            "type": "single",
-            "resource": "lab:iron_block"
-        },
-        {
-            "type": "single",
-            "resource": "lab:spruce_planks"
-        },
-        {
-            "type": "single",
-            "resource": "lab:oak_planks"
-        },
-        {
-            "type": "single",
-            "resource": "lab:armor/abyssalite/abyssalite_chestplate"
-        },
-        {
-            "type": "single",
-            "resource": "lab:armor/abyssalite/abyssalite_boots"
-        },
-        {
-            "type": "single",
-            "resource": "lab:armor/abyssalite/abyssalite_leggings"
-        },
-        {
-            "type": "single",
-            "resource": "lab:armor/abyssalite/abyssalite_helmet"
-        },
-        {
-            "type": "single",
-            "resource": "lab:white_concrete"
-        },
-        {
-            "type": "single",
-            "resource": "lab:hazard"
-        },
-        {
-            "type": "single",
-            "resource": "lab:orange_concrete"
-        },
-        {
-            "type": "single",
-            "resource": "lab:sea_lantern"
-        },
-        {
-            "type": "single",
-            "resource": "lab:gui/advancements/notifications"
-        },
-        {
-            "type": "single",
-            "resource": "lab:gui/advancements/alarms"
         },
         {
             "type": "single",
