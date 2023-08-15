@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "blocktech:item/eternal_crystal",
+        "particle": "blocktech:item/eternal_crystal"
+    }
+}

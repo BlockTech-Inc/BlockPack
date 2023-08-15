@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "blocktech:item/crow_eye",
+        "particle": "blocktech:item/crow_eye"
+    }
+}

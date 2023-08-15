@@ -6,11 +6,11 @@
   "overrides":[
     {
       "predicate":{"custom_model_data":1},
-      "model": "lab:item/item/crying_obsidian_shard"
+      "model": "blocktech:item/item/crying_obsidian_shard"
     },
     {
       "predicate":{"custom_model_data":2},
-      "model": "lab:item/item/obsidian_shard"
+      "model": "blocktech:item/item/obsidian_shard"
     }
   ]
 }

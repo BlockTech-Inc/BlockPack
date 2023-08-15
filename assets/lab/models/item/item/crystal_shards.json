@@ -1,7 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "lab:item/crystal_shards",
-        "particle": "lab:item/crystal_shards"
-    }
-}

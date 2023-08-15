@@ -1,7 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "lab:item/crying_obsidian_shard",
-        "particle": "lab:item/crying_obsidian_shard"
-    }
-}

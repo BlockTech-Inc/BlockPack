@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "blocktech:item/black_apple",
+        "particle": "blocktech:item/black_apple"
+    }
+}

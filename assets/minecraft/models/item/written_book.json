@@ -11,47 +11,47 @@
         },
         {
             "predicate": { "custom_model_data": 1 },
-            "model": "lab:item/keycard/1"
+            "model": "blocktech:item/keycard/1"
         },
         {
             "predicate": { "custom_model_data": 2 },
-            "model": "lab:item/keycard/2"
+            "model": "blocktech:item/keycard/2"
         },
         {
             "predicate": { "custom_model_data": 3 },
-            "model": "lab:item/keycard/3"
+            "model": "blocktech:item/keycard/3"
         },
         {
             "predicate": { "custom_model_data": 4 },
-            "model": "lab:item/keycard/4"
+            "model": "blocktech:item/keycard/4"
         },
         {
             "predicate": { "custom_model_data": 5 },
-            "model": "lab:item/keycard/5"
+            "model": "blocktech:item/keycard/5"
         },
         {
             "predicate": { "custom_model_data": 6 },
-            "model": "lab:item/keycard/6"
+            "model": "blocktech:item/keycard/6"
         },
         {
             "predicate": { "custom_model_data": 7 },
-            "model": "lab:item/keycard/7"
+            "model": "blocktech:item/keycard/7"
         },
         {
             "predicate": { "custom_model_data": 8 },
-            "model": "lab:item/keycard/8"
+            "model": "blocktech:item/keycard/8"
         },
         {
             "predicate": { "custom_model_data": 9 },
-            "model": "lab:item/keycard/9"
+            "model": "blocktech:item/keycard/9"
         },
         {
             "predicate":{ "custom_model_data": 10 },
-            "model": "lab:gui/advancements/notifications"
+            "model": "blocktech:gui/advancements/notifications"
         },
         {
             "predicate":{"custom_model_data":11},
-            "model":"lab:gui/advancements/alarms"
+            "model":"blocktech:gui/advancements/alarms"
         }
     ]
 }

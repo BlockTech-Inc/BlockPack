@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "blocktech:item/certus_quartz_crystal_charged",
+        "particle": "blocktech:item/certus_quartz_crystal_charged"
+    }
+}

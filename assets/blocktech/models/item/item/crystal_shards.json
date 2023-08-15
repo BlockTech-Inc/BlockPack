@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "blocktech:item/crystal_shards",
+        "particle": "blocktech:item/crystal_shards"
+    }
+}

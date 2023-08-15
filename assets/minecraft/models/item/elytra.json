@@ -12,7 +12,7 @@
         },
         {
         "predicate": { "custom_model_data": 6917 },
-        "model": "lab:item/lab_armor/abyssalite_chestplate"
+        "model": "blocktech:item/lab_armor/abyssalite_chestplate"
         }
     ]
 }

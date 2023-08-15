@@ -6,11 +6,11 @@
   "overrides":[
     {
       "predicate": {"custom_model_data": 1},
-      "model": "lab:item/item/abyss_watcher"
+      "model": "blocktech:item/item/abyss_watcher"
     },
     {
       "predicate": {"custom_model_data": 2},
-      "model":"lab:item/item/crow_eye"
+      "model":"blocktech:item/item/crow_eye"
     }
   ]
 }
