@@ -559,5 +559,13 @@
                 "name": "blocktech:ambient/impulse"
             }
         ]
+    },
+    "music.anotherduh":{
+        "sounds": [
+            {
+                "name": "blocktech:music/anotherduh",
+                "stream": true
+            }
+        ]
     }
 }
