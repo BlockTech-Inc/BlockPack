@@ -1,11 +1,12 @@
 {
-	"parent": "block/block",
 	"credit": "Property Of Technodono",
+	"parent": "block/block",
 	"textures": {
+		"top": "shelve:block/pot_hole",
 		"hole": "#inside",
+		"particle": "shelve:block/pot",
 		"side": "shelve:block/pot",
-		"bottom": "shelve:block/pot_bottom",
-		"particle": "shelve:block/pot"
+		"bottom": "shelve:block/pot_bottom"
 	},
 	"elements": [
 		{
@@ -40,7 +41,7 @@
 				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
 				"south": {"uv": [0, 0, 3, 16], "texture": "#side"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"up": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#side"},
+				"up": {"uv": [0, 0, 3, 16], "texture": "#top"},
 				"down": {"uv": [0, 0, 3, 16], "texture": "#bottom"}
 			}
 		},
@@ -52,8 +53,8 @@
 				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
 				"south": {"uv": [0, 0, 3, 16], "texture": "#side"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"up": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#side"},
-				"down": {"uv": [0, 0, 3, 16], "texture": "#bottom"}
+				"up": {"uv": [13, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [13, 0, 16, 16], "texture": "#bottom"}
 			}
 		},
 		{
@@ -64,8 +65,8 @@
 				"east": {"uv": [0, 0, 3, 16], "texture": "#side"},
 				"south": {"uv": [0, 0, 10, 16], "texture": "#side"},
 				"west": {"uv": [0, 0, 3, 16], "texture": "#side"},
-				"up": {"uv": [0, 0, 10, 3], "texture": "#side"},
-				"down": {"uv": [0, 0, 10, 3], "texture": "#bottom"}
+				"up": {"uv": [3, 0, 13, 3], "texture": "#top"},
+				"down": {"uv": [3, 13, 13, 16], "texture": "#bottom"}
 			}
 		},
 		{
@@ -76,15 +77,9 @@
 				"east": {"uv": [0, 0, 3, 16], "texture": "#side"},
 				"south": {"uv": [0, 0, 10, 16], "texture": "#side"},
 				"west": {"uv": [0, 0, 3, 16], "texture": "#side"},
-				"up": {"uv": [0, 0, 10, 3], "texture": "#side"},
-				"down": {"uv": [0, 0, 10, 3], "texture": "#bottom"}
+				"up": {"uv": [3, 13, 13, 16], "texture": "#top"},
+				"down": {"uv": [3, 0, 13, 3], "texture": "#bottom"}
 			}
 		}
-	],
-	"display": {
-		"head": {
-			"translation": [0, -30.4, 0],
-			"scale": [1.61, 1.61, 1.61]
-		}
-	}
+	]
 }

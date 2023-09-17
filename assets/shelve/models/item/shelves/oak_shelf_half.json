@@ -8,11 +8,5 @@
 		"south": "shelve:block/half_shelf",
         "east": "block/oak_planks",
 		"west": "block/oak_planks"
-	},
-	"display": {
-		"head": {
-			"translation": [0, -30.4, 0],
-			"scale": [1.61, 1.61, 1.61]
-		}
 	}
 }

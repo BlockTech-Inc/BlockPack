@@ -8,11 +8,5 @@
 		"south": "shelve:block/firelight_core_side",
         "east": "shelve:block/firelight_core_side",
 		"west": "shelve:block/firelight_core_side"
-	},
-	"display": {
-		"head": {
-			"translation": [0, -30.4, 0],
-			"scale": [1.61, 1.61, 1.61]
-		}
 	}
 }

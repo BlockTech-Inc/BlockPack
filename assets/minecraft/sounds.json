@@ -16,16 +16,6 @@
         "subtitle": "§o§cYahoo!"
     },
 
-    "block.bed.change_bedsheets": {
-        "subtitle": "bob.subtitles.item.banner.change_bedsheets",
-        "sounds": [
-            { "name": "bob:bedsheets_changed_1" },
-            { "name": "bob:bedsheets_changed_2" },
-            { "name": "bob:bedsheets_changed_3" },
-            { "name": "bob:bedsheets_changed_4" }
-        ]
-    },
-
     "bulletbig": {
         "replace": false,
         "sounds": ["bulletbig"]

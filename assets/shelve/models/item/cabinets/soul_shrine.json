@@ -8,11 +8,5 @@
 		"south": "shelve:block/cabinet_side",
         "east": "shelve:block/cabinet_side",
 		"west": "shelve:block/cabinet_side"
-	},
-	"display": {
-		"head": {
-			"translation": [0, -30.4, 0],
-			"scale": [1.61, 1.61, 1.61]
-		}
 	}
 }
