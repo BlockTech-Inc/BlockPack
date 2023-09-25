@@ -1,0 +1,7 @@
+{
+    "parent": "block/colorable_block_log",
+    "textures": {
+        "end": "blocks/ancientdebris_top",
+        "side": "blocks/ancientdebris_side"
+    }
+}

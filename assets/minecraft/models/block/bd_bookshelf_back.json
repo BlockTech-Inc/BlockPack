@@ -1,0 +1,7 @@
+{
+    "parent": "block/colorable_block_log",
+    "textures": {
+        "end": "blocks/l1_14",
+        "side": "blocks/bd_bookshelf_back"
+    }
+}

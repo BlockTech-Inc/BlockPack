@@ -1,0 +1,7 @@
+{
+    "parent": "block/colorable_block_log",
+    "textures": {
+        "end": "blocks/bd_pumpkin_top",
+        "side": "blocks/bd_pumpkin_side"
+    }
+}

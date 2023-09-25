@@ -1,0 +1,18 @@
+{
+    "parent": "block/colorable_block_untintable_area",
+    "textures": {
+        "north": "blocks/bd_bookshelf_books_1",
+        "east": "blocks/bd_bookshelf_books_1",
+        "south": "blocks/bd_bookshelf_books_1",
+        "west": "blocks/bd_bookshelf_books_1",
+        "up": "blocks/empty",
+        "down": "blocks/empty",
+
+        "north_untinted": "blocks/bd_bookshelf_books_1_mask",
+        "east_untinted": "blocks/bd_bookshelf_books_1_mask",
+        "south_untinted": "blocks/bd_bookshelf_books_1_mask",
+        "west_untinted": "blocks/bd_bookshelf_books_1_mask",
+        "up_untinted": "blocks/empty",
+        "down_untinted": "blocks/empty"
+    }
+}

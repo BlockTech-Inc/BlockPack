@@ -1,0 +1,7 @@
+{
+    "parent": "block/colorable_block_log",
+    "textures": {
+        "end": "blocks/bd_purpur_pillar_top",
+        "side": "blocks/bd_purpur_pillar"
+    }
+}

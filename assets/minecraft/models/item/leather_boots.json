@@ -5,69 +5,761 @@
         "layer1": "item/leather_boots_overlay"
     },
 	"overrides": [
-		{"predicate": {"custom_model_data": 1014001}, "model": "crc:furniture/chairs/sofa_middel"},
+        {
+            "predicate": { "custom_model_data": 1014001 },
+            "model": "crc:furniture/chairs/sofa_middel"
+        },
 
-		{"predicate": {"custom_model_data": 1014002}, "model": "crc:furniture/chairs/oak_sofa_single"},
-		{"predicate": {"custom_model_data": 1014003}, "model": "crc:furniture/chairs/oak_sofa_right"},
-		{"predicate": {"custom_model_data": 1014004}, "model": "crc:furniture/chairs/oak_sofa_left"},
-		{"predicate": {"custom_model_data": 1014005}, "model": "crc:furniture/chairs/oak_ottoman"},
-		{"predicate": {"custom_model_data": 1014006}, "model": "crc:furniture/chairs/birch_sofa_single"},
-		{"predicate": {"custom_model_data": 1014007}, "model": "crc:furniture/chairs/birch_sofa_right"},
-		{"predicate": {"custom_model_data": 1014008}, "model": "crc:furniture/chairs/birch_sofa_left"},
-		{"predicate": {"custom_model_data": 1014009}, "model": "crc:furniture/chairs/birch_ottoman"},
-		{"predicate": {"custom_model_data": 1014010}, "model": "crc:furniture/chairs/spruce_sofa_single"},
-		{"predicate": {"custom_model_data": 1014011}, "model": "crc:furniture/chairs/spruce_sofa_right"},
-		{"predicate": {"custom_model_data": 1014012}, "model": "crc:furniture/chairs/spruce_sofa_left"},
-		{"predicate": {"custom_model_data": 1014013}, "model": "crc:furniture/chairs/spruce_ottoman"},
-		{"predicate": {"custom_model_data": 1014014}, "model": "crc:furniture/chairs/dark_oak_sofa_single"},
-		{"predicate": {"custom_model_data": 1014015}, "model": "crc:furniture/chairs/dark_oak_sofa_right"},
-		{"predicate": {"custom_model_data": 1014016}, "model": "crc:furniture/chairs/dark_oak_sofa_left"},
-		{"predicate": {"custom_model_data": 1014017}, "model": "crc:furniture/chairs/dark_oak_ottoman"},
-		{"predicate": {"custom_model_data": 1014018}, "model": "crc:furniture/chairs/acacia_sofa_single"},
-		{"predicate": {"custom_model_data": 1014019}, "model": "crc:furniture/chairs/acacia_sofa_right"},
-		{"predicate": {"custom_model_data": 1014020}, "model": "crc:furniture/chairs/acacia_sofa_left"},
-		{"predicate": {"custom_model_data": 1014021}, "model": "crc:furniture/chairs/acacia_ottoman"},
-		{"predicate": {"custom_model_data": 1014022}, "model": "crc:furniture/chairs/jungle_sofa_single"},
-		{"predicate": {"custom_model_data": 1014023}, "model": "crc:furniture/chairs/jungle_sofa_right"},
-		{"predicate": {"custom_model_data": 1014024}, "model": "crc:furniture/chairs/jungle_sofa_left"},
-		{"predicate": {"custom_model_data": 1014025}, "model": "crc:furniture/chairs/jungle_ottoman"},
+        {
+            "predicate": { "custom_model_data": 1014002 },
+            "model": "crc:furniture/chairs/oak_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014003 },
+            "model": "crc:furniture/chairs/oak_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014004 },
+            "model": "crc:furniture/chairs/oak_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014005 },
+            "model": "crc:furniture/chairs/oak_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014006 },
+            "model": "crc:furniture/chairs/birch_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014007 },
+            "model": "crc:furniture/chairs/birch_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014008 },
+            "model": "crc:furniture/chairs/birch_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014009 },
+            "model": "crc:furniture/chairs/birch_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014010 },
+            "model": "crc:furniture/chairs/spruce_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014011 },
+            "model": "crc:furniture/chairs/spruce_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014012 },
+            "model": "crc:furniture/chairs/spruce_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014013 },
+            "model": "crc:furniture/chairs/spruce_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014014 },
+            "model": "crc:furniture/chairs/dark_oak_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014015 },
+            "model": "crc:furniture/chairs/dark_oak_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014016 },
+            "model": "crc:furniture/chairs/dark_oak_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014017 },
+            "model": "crc:furniture/chairs/dark_oak_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014018 },
+            "model": "crc:furniture/chairs/acacia_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014019 },
+            "model": "crc:furniture/chairs/acacia_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014020 },
+            "model": "crc:furniture/chairs/acacia_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014021 },
+            "model": "crc:furniture/chairs/acacia_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014022 },
+            "model": "crc:furniture/chairs/jungle_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014023 },
+            "model": "crc:furniture/chairs/jungle_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014024 },
+            "model": "crc:furniture/chairs/jungle_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014025 },
+            "model": "crc:furniture/chairs/jungle_ottoman"
+        },
 
-		{"predicate": {"custom_model_data": 1014026}, "model": "crc:furniture/chairs/oak_sofa_corner"},
-		{"predicate": {"custom_model_data": 1014027}, "model": "crc:furniture/chairs/oak_ottoman_left"},
-		{"predicate": {"custom_model_data": 1014028}, "model": "crc:furniture/chairs/birch_sofa_corner"},
-		{"predicate": {"custom_model_data": 1014029}, "model": "crc:furniture/chairs/birch_ottoman_left"},
-		{"predicate": {"custom_model_data": 1014030}, "model": "crc:furniture/chairs/spruce_sofa_corner"},
-		{"predicate": {"custom_model_data": 1014031}, "model": "crc:furniture/chairs/spruce_ottoman_left"},
-		{"predicate": {"custom_model_data": 1014032}, "model": "crc:furniture/chairs/dark_oak_sofa_corner"},
-		{"predicate": {"custom_model_data": 1014033}, "model": "crc:furniture/chairs/dark_oak_ottoman_left"},
-		{"predicate": {"custom_model_data": 1014034}, "model": "crc:furniture/chairs/acacia_sofa_corner"},
-		{"predicate": {"custom_model_data": 1014035}, "model": "crc:furniture/chairs/acacia_ottoman_left"},
-		{"predicate": {"custom_model_data": 1014036}, "model": "crc:furniture/chairs/jungle_sofa_corner"},
-		{"predicate": {"custom_model_data": 1014037}, "model": "crc:furniture/chairs/jungle_ottoman_left"},
+        {
+            "predicate": { "custom_model_data": 1014026 },
+            "model": "crc:furniture/chairs/oak_sofa_corner"
+        },
+        {
+            "predicate": { "custom_model_data": 1014027 },
+            "model": "crc:furniture/chairs/oak_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014028 },
+            "model": "crc:furniture/chairs/birch_sofa_corner"
+        },
+        {
+            "predicate": { "custom_model_data": 1014029 },
+            "model": "crc:furniture/chairs/birch_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014030 },
+            "model": "crc:furniture/chairs/spruce_sofa_corner"
+        },
+        {
+            "predicate": { "custom_model_data": 1014031 },
+            "model": "crc:furniture/chairs/spruce_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014032 },
+            "model": "crc:furniture/chairs/dark_oak_sofa_corner"
+        },
+        {
+            "predicate": { "custom_model_data": 1014033 },
+            "model": "crc:furniture/chairs/dark_oak_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014034 },
+            "model": "crc:furniture/chairs/acacia_sofa_corner"
+        },
+        {
+            "predicate": { "custom_model_data": 1014035 },
+            "model": "crc:furniture/chairs/acacia_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014036 },
+            "model": "crc:furniture/chairs/jungle_sofa_corner"
+        },
+        {
+            "predicate": { "custom_model_data": 1014037 },
+            "model": "crc:furniture/chairs/jungle_ottoman_left"
+        },
 
-		{"predicate": {"custom_model_data": 1014038}, "model": "crc:furniture/chairs/ottoman_middel"},
+        {
+            "predicate": { "custom_model_data": 1014038 },
+            "model": "crc:furniture/chairs/ottoman_middel"
+        },
 
-		{"predicate": {"custom_model_data": 1014039}, "model": "crc:furniture/chairs/oak_ottoman_right"},
-		{"predicate": {"custom_model_data": 1014040}, "model": "crc:furniture/chairs/birch_ottoman_right"},
-		{"predicate": {"custom_model_data": 1014041}, "model": "crc:furniture/chairs/spruce_ottoman_right"},
-		{"predicate": {"custom_model_data": 1014042}, "model": "crc:furniture/chairs/dark_oak_ottoman_right"},
-		{"predicate": {"custom_model_data": 1014043}, "model": "crc:furniture/chairs/acacia_ottoman_right"},
-		{"predicate": {"custom_model_data": 1014044}, "model": "crc:furniture/chairs/jungle_ottoman_right"},
+        {
+            "predicate": { "custom_model_data": 1014039 },
+            "model": "crc:furniture/chairs/oak_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014040 },
+            "model": "crc:furniture/chairs/birch_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014041 },
+            "model": "crc:furniture/chairs/spruce_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014042 },
+            "model": "crc:furniture/chairs/dark_oak_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014043 },
+            "model": "crc:furniture/chairs/acacia_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014044 },
+            "model": "crc:furniture/chairs/jungle_ottoman_right"
+        },
 
-        {"predicate": {"custom_model_data": 1014045}, "model": "crc:furniture/chairs/warped_ottoman_right"},
-        {"predicate": {"custom_model_data": 1014046}, "model": "crc:furniture/chairs/warped_ottoman_left"},
-        {"predicate": {"custom_model_data": 1014047}, "model": "crc:furniture/chairs/warped_ottoman"},
-        {"predicate": {"custom_model_data": 1014048}, "model": "crc:furniture/chairs/warped_sofa_right"},
-        {"predicate": {"custom_model_data": 1014049}, "model": "crc:furniture/chairs/warped_sofa_left"},
-        {"predicate": {"custom_model_data": 1014050}, "model": "crc:furniture/chairs/warped_sofa_single"},
-        {"predicate": {"custom_model_data": 1014051}, "model": "crc:furniture/chairs/warped_sofa_corner"},
+        {
+            "predicate": { "custom_model_data": 1014045 },
+            "model": "crc:furniture/chairs/warped_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014046 },
+            "model": "crc:furniture/chairs/warped_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014047 },
+            "model": "crc:furniture/chairs/warped_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014048 },
+            "model": "crc:furniture/chairs/warped_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014049 },
+            "model": "crc:furniture/chairs/warped_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014050 },
+            "model": "crc:furniture/chairs/warped_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014051 },
+            "model": "crc:furniture/chairs/warped_sofa_corner"
+        },
 
-        {"predicate": {"custom_model_data": 1014052}, "model": "crc:furniture/chairs/crimson_ottoman_right"},
-        {"predicate": {"custom_model_data": 1014053}, "model": "crc:furniture/chairs/crimson_ottoman_left"},
-        {"predicate": {"custom_model_data": 1014054}, "model": "crc:furniture/chairs/crimson_ottoman"},
-        {"predicate": {"custom_model_data": 1014055}, "model": "crc:furniture/chairs/crimson_sofa_right"},
-        {"predicate": {"custom_model_data": 1014056}, "model": "crc:furniture/chairs/crimson_sofa_left"},
-        {"predicate": {"custom_model_data": 1014057}, "model": "crc:furniture/chairs/crimson_sofa_single"},
-		{"predicate": {"custom_model_data": 1014058}, "model": "crc:furniture/chairs/crimson_sofa_corner"}
-	]
+        {
+            "predicate": { "custom_model_data": 1014052 },
+            "model": "crc:furniture/chairs/crimson_ottoman_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014053 },
+            "model": "crc:furniture/chairs/crimson_ottoman_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014054 },
+            "model": "crc:furniture/chairs/crimson_ottoman"
+        },
+        {
+            "predicate": { "custom_model_data": 1014055 },
+            "model": "crc:furniture/chairs/crimson_sofa_right"
+        },
+        {
+            "predicate": { "custom_model_data": 1014056 },
+            "model": "crc:furniture/chairs/crimson_sofa_left"
+        },
+        {
+            "predicate": { "custom_model_data": 1014057 },
+            "model": "crc:furniture/chairs/crimson_sofa_single"
+        },
+        {
+            "predicate": { "custom_model_data": 1014058 },
+            "model": "crc:furniture/chairs/crimson_sofa_corner"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "block/l1_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "block/l1_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "block/l1_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "block/l1_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "block/l1_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "block/l1_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "block/l1_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "block/l1_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "block/l1_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "block/l1_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "block/l1_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "block/l1_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "block/l1_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "block/l2_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "block/l2_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "block/l2_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "block/l2_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "block/l2_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "block/l2_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "block/l2_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "block/l2_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "block/l2_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "block/l2_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "block/l2_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "block/l2_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "block/l2_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "block/l2_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "block/l2_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "block/l2_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "block/l2_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "block/l2_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "block/l2_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "block/l2_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "block/l3_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "block/l3_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "block/l3_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "block/l1_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "block/l1_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "block/l3_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "block/l1_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "block/l3_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "block/l1_copper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "block/l2_crimsonstem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "block/l2_glowlichen"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "block/l2_glass"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "block/l1_ancientdebris_side"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "block/l1_ancientdebris_top"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "block/l3_warpednylium"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "block/l1_ironblock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "block/l1_amethyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "block/l1_dripstone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "block/l1_mushroomstem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "block/l2_gildedblackstone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "block/l1_netherrack"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "block/bd_tinted_glass"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "block/bd_coal_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "block/bd_cobbled_deepslate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "block/bd_copper_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "block/bd_cut_copper_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "block/bd_emerald_ore_new"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "block/bd_gold_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "block/bd_iron_ore_new"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "block/bd_nether_gold_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "block/bd_nether_quartz_new"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "block/bd_raw_gold_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "block/bd_redstone_ore"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "block/bd_bricks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "block/bd_cobblestone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "block/bd_netherbricks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "block/bd_sponge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "block/bd_tube_coral_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "block/bd_brain_coral_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "block/bd_bubble_coral_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "block/bd_fire_coral_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "block/bd_horn_coral_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "block/bd_bricks_outline"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "block/bd_ancient_debris"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "block/bd_brown_mushroom_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "block/bd_purpur_pillar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "block/bd_chiselled_quartz_old"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "block/bd_emerald_block_old"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "block/bd_bookself_books_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "block/bd_bookself_books_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "block/bd_bookshelf_back"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "block/bd_red_mushroom_spots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "block/bd_pumpkin"
+        }
+    ]
 }
