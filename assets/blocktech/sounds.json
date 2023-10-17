@@ -567,5 +567,21 @@
                 "stream": true
             }
         ]
+    },
+    "music.vs_ridley_intro":{
+        "sounds": [
+            {
+                "name": "blocktech:music/vs_ridley_intro",
+                "stream": true
+            }
+        ]
+    },
+    "music.vs_ridley_loop":{
+        "sounds": [
+            {
+                "name": "blocktech:music/vs_ridley_loop",
+                "stream": true
+            }
+        ]
     }
 }
