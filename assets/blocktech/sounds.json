@@ -583,5 +583,29 @@
                 "stream": true
             }
         ]
+    },
+    "music.bubblaine":{
+        "sounds": [
+            {
+                "name": "blocktech:music/bubblaine",
+                "stream": true
+            }
+        ]
+    },
+    "music.science_is_fun":{
+        "sounds": [
+            {
+                "name": "blocktech:music/science_is_fun",
+                "stream": true
+            }
+        ]
+    },
+    "music.you_will_be_perfect":{
+        "sounds": [
+            {
+                "name": "blocktech:music/you_will_be_perfect",
+                "stream": true
+            }
+        ]
     }
 }
