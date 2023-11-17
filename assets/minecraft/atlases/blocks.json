@@ -2,26 +2,6 @@
     "sources": [
         {
             "type": "single",
-            "resource": "shelve:custom_particles/firelight_1"
-        },
-        {
-            "type": "single",
-            "resource": "shelve:custom_particles/blank"
-        },
-        {
-            "type": "single",
-            "resource": "shelve:custom_particles/firelight_3"
-        },
-        {
-            "type": "single",
-            "resource": "shelve:custom_particles/firelight_2"
-        },
-        {
-            "type": "single",
-            "resource": "shelve:custom_particles/firelight_4"
-        },
-        {
-            "type": "single",
             "resource": "fruitful_loot:loot_textures/verdegris_shovel"
         },
         {
@@ -691,6 +671,374 @@
         {
             "type": "single",
             "resource": "minecraft:entity/signs/hanging/oak"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/glowlichen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/emerald_ore_new"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/nether_gold_ore"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/wool"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_13"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/redstone_ore"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/brain_coral_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_bookshelf_books_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/empty"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_bookshelf_books_2_mask"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_12"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/horn_coral_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/fire_coral_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_14"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/dripstone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_bookshelf_back"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_13"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_pumpkin_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_pumpkin_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_15"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_9"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/tinted_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l3_1_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l3_1_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_19"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/ancientdebris_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/ancientdebris_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/cobbled_deepslate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_18"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/nether_quartz_new"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/iron_ore_new"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_8"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_emerald_block_old"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_14"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/gildedblackstone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_12"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/crimsonstem"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_17"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_brown_mushroom_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_11"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/sponge"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bubble_coral_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_purpur_pillar_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_purpur_pillar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/netherrack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l3_3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/gold_ore"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l3_2_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l3_2_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/coal_ore"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_6"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/copper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_20"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_10"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/copper_ore"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_16"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/warpednylium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/warpednylium_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/raw_gold_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_red_mushroom_spots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/amethyst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l3_5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_bookshelf_books_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_bookshelf_books_1_mask"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_8"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/mushroomstem"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_11"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/tube_coral_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_16"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bd_chiselled_quartz_old"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l2_10"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_9"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/ironblock"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/cobblestone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/nether_bricks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/l1_5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/bricks_outline"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/cut_copper"
         },
         {
             "type": "single",
