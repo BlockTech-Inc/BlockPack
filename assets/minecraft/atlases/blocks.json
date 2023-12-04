@@ -470,6 +470,54 @@
         },
         {
             "type": "single",
+            "resource": "sfw:ammo/ammogreen"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scfisword/scfisword"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scfiaxe/sword"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scfiaxe/scfiaxe"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:ammo/ammored"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:ammo/ammo"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scfibow/scfibow"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scficanon/scficanon"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scficanon/green"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scficanon/red"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scficanon/scficanonred"
+        },
+        {
+            "type": "single",
+            "resource": "sfw:scfishield/shield"
+        },
+        {
+            "type": "single",
             "resource": "crc:ui/table"
         },
         {

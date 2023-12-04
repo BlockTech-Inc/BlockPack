@@ -1899,6 +1899,38 @@
         {
             "predicate": { "custom_model_data": 85 },
             "model": "qualityarmory:misc/ammobag"
+        },
+        {
+            "predicate": { "custom_model_data": 86 },
+            "model": "item/crossbow/canonstandby_"
+        },
+        {
+            "predicate": { "custom_model_data": 86, "pulling": 1 },
+            "model": "sfw:item/crossbow/canon0_"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "sfw:item/crossbow/canon1_"
+        },
+        {
+            "predicate": { "custom_model_data": 86, "pulling": 1, "pull": 1.0 },
+            "model": "sfw:item/crossbow/canon2_"
+        },
+        {
+            "predicate": { "custom_model_data": 86, "charged": 1 },
+            "model": "sfw:item/crossbow/canoncharged_"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "sfw:item/crossbow/canonfirework_"
         }
     ]
 }
