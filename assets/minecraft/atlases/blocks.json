@@ -82,6 +82,11 @@
         },
         {
             "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
             "source": "items",
             "prefix": "items/"
         },
