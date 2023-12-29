@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:block/carved_pumpkin",
   "overrides":[
+    {"predicate": {"custom_model_data":1}, "model": "item/pumpkin_override"},
     {
       "predicate": {"custom_model_data":6917},
       "model": "lab:item/hats/abyssalite_crown"
