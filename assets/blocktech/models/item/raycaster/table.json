@@ -1,6 +1,5 @@
 {
     "parent": "item/generated",
-    "texture_size": [32, 32],
     "textures": {
         "layer0": "blocktech:item/raycaster/table"
     }
