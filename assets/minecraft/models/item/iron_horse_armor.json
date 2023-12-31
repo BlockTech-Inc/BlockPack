@@ -5,10 +5,6 @@
   },
   "overrides":[
     {
-      "predicate":{"custom_model_data":666},
-      "model":"error:error"
-    },
-    {
       "predicate":{"custom_model_data":6},
       "model":"blocktech:item/monitor/monitor-boat"
     },
