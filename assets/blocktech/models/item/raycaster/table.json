@@ -1,22 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
+	"parent": "item/handheld",
 	"textures": {
-		"0": "blocktech:raycaster/table",
-		"particle": "blocktech:raycaster/table"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 7],
-			"to": [16, 16, 7],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 8], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 8], "texture": "#missing"},
-				"up": {"uv": [0, 0, 8, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 8, 0], "texture": "#missing"}
-			}
-		}
-	]
+		"layer0": "blocktech:raycaster/table"
+	}
 }

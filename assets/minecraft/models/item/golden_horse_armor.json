@@ -1,9 +1,13 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:item/golden_horse_armor"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1},"model":"blockteck:item/raycaster/table"}
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_horse_armor"
+	},
+	
+	"overrides": [
+        {
+            "predicate": { "custom_model_data": 1 },
+            "model": "blocktech:item/raycaster/table"
+        }
     ]
 }
