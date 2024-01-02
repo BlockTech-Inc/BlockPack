@@ -607,5 +607,47 @@
                 "stream": true
             }
         ]
+    },
+    "voice.annoucements.bio_forms_in_c":{
+        "sounds": [
+            {
+                "name": "blocktech:voice/bio_forms_in_c"
+            }
+        ]
+    },
+    "voice.annoucements.bio_forms_in_vents":{
+        "sounds": [
+            {
+                "name": "blocktech:voice/bio_forms_in_vents"
+            }
+        ]
+    },
+    "voice.annoucements.biohazard_in_b_and_c":{
+        "sounds": [
+            {
+                "name": "blocktech:voice/biohazard_in_b_and_c"
+            }
+        ]
+    },
+    "voice.annoucements.man_down_in_d":{
+        "sounds": [
+            {
+                "name": "blocktech:voice/man_down_in_d"
+            }
+        ]
+    },
+    "voice.annoucements.uranium_containment_to_d":{
+        "sounds": [
+            {
+                "name": "blocktech:voice/uranium_containment_to_d"
+            }
+        ]
+    },
+    "voice.drat":{
+        "sounds": [
+            {
+                "name": "blocktech:voice/drat"
+            }
+        ]
     }
 }
