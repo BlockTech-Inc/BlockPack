@@ -12,6 +12,11 @@
         },
         {
             "type": "directory",
+            "source": "raycaster",
+            "prefix": "raycaster/"
+        },
+        {
+            "type": "directory",
             "source": "keycard",
             "prefix": "keycard/"
         },
