@@ -1,6 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
+<<<<<<< HEAD
+=======
+	"texture_size": [32, 32],
+>>>>>>> 961443942d4f894664beeb1a792ce1cb0c95fc4b
 	"textures": {
 		"layer0": "blocktech:raycaster/table"
 	}
