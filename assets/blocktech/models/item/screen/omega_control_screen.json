@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "blocktech:screen/omega_control_screen"
+    }
+}
