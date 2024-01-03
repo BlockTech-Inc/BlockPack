@@ -146,6 +146,10 @@
         },
         {
             "type": "single",
+            "resource": "blocktech:screen/omega_control_screen"
+        },
+        {
+            "type": "single",
             "resource": "blocktech:armor/abyssalite/abyssalite_chestplate"
         },
         {
