@@ -649,5 +649,13 @@
                 "name": "blocktech:voice/drat"
             }
         ]
+    },
+    "music.lunar_abyss":{
+        "sounds": [
+            {
+                "name": "blocktech:music/lunar_abyss",
+                "stream": true
+            }
+        ]
     }
 }
