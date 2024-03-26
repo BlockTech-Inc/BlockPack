@@ -2,54 +2,6 @@
     "sources": [
         {
             "type": "single",
-            "resource": "fruitful_loot:loot_textures/verdegris_shovel"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/rock_stone"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/desert_tablet"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/ice_stone"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/void_cube"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/jungle_tablet"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/old_sword"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/woodland_tablet"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/cursed_skull"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/water_stone"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/trusty_rusty"
-        },
-        {
-            "type": "single",
-            "resource": "fruitful_loot:loot_textures/fire_stone"
-        },
-        {
-            "type": "single",
             "resource": "blocktech:monitor/monitor"
         },
         {
@@ -454,7 +406,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:gui/resource_packs"
+            "resource": "minecraft:gui/sprites/world_list/join"
         },
         {
             "type": "single",
