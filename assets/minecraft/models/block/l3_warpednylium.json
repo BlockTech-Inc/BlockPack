@@ -1,7 +1,0 @@
-{
-        "parent": "block/colorable_block_top_half",
-        "textures": {
-            "top": "blocks/warpednylium",
-            "sides": "blocks/warpednylium_side"
-        }
-    }
