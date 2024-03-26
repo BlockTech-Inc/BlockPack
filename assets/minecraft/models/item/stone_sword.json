@@ -45,11 +45,5 @@
             "translation": 	[ 1.13, 3.50, 1.13],
             "scale": 		[ 0.68, 0.68, 0.68 ]
         }
-    },
-    "overrides": [
-        {
-            "predicate": { "custom_model_data": 1567 },
-            "model": "fruitful_loot:item/trinkets/old_sword"
-        }
-    ]
+    }
 }
