@@ -1,4 +1,0 @@
-{
-	"parent": "tac/chair/simple/stone_brick",
-	"textures": {"0": "block/deepslate_bricks"}
-}

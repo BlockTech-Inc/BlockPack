@@ -1,6 +1,0 @@
-{
-	"parent": "tac/table/carpet/table_cloth",
-	"textures": {"1": "block/pink_wool",
-		"particle": "block/pink_wool"
-    }
-}

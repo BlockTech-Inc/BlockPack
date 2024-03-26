@@ -1,6 +1,0 @@
-{
-	"parent": "clocks/grand/door/glass/glass",
-	"textures": {
-		"glass": "block/black_stained_glass"
-	}
-}
