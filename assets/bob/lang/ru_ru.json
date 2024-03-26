@@ -1,9 +1,0 @@
-{
-	"%1$s%1111236608$s": "%2$s",
-	"bob.entity.bed_pattern": "Выкройка простыни",
-	"bob.entity.pillow": "Подушка",
-	"bob.subtitles.item.banner.change_bedsheets": "Смена постельного белья",
-	"bob.commands.function.uninstall": "Деинсталляция....",
-	"bob.commands.function.uninstall.finished": "Успешно деинсталлировано.",
-	"bob.advancements.bob.description": "Используйте баннер на кровати для смены постельного белья"
-}
