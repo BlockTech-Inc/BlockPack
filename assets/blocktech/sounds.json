@@ -1,12 +1,4 @@
 {
-    "music.core.start": {
-        "sounds": [
-            {
-                "name": "blocktech:music/core_start",
-                "stream": true
-            }
-        ]
-    },
     "music.title": {
         "sounds": [
             {
@@ -279,14 +271,6 @@
             }
         ]
     },
-    "music.gerudo_valley": {
-        "sounds": [
-            {
-                "name": "blocktech:music/gerudo_valley",
-                "stream": true
-            }
-        ]
-    },
     "ambient.how-does-it-work": {
         "sounds": [
             {
@@ -298,14 +282,6 @@
         "sounds": [
             {
                 "name": "blocktech:music/escape",
-                "stream": true
-            }
-        ]
-    },
-    "music.speedy_comet_intro":{
-        "sounds": [
-            {
-                "name": "blocktech:music/speedy_comet_intro",
                 "stream": true
             }
         ]
@@ -433,14 +409,6 @@
             }
         ]
     },
-    "music.breezy_mushrise_park":{
-        "sounds": [
-            {
-                "name": "blocktech:music/breezy_mushrise_park_sunny_days_mix",
-                "stream": true
-            }
-        ]
-    },
     "music.pennington_theme_intro":{
         "sounds": [
             {
@@ -521,26 +489,10 @@
             }
         ]
     },
-    "music.speedy_comet_loop":{
-        "sounds": [
-            {
-                "name": "blocktech:music/speedy_comet_loop",
-                "stream": true
-            }
-        ]
-    },
     "music.elevator_jam":{
         "sounds": [
             {
                 "name": "blocktech:music/elevator_jam_lsplash",
-                "stream": true
-            }
-        ]
-    },
-    "music.ai_ambient_one_mpipe":{
-        "sounds": [
-            {
-                "name": "blocktech:music/ai_ambient_one_mpipe",
                 "stream": true
             }
         ]
@@ -560,14 +512,6 @@
             }
         ]
     },
-    "music.anotherduh":{
-        "sounds": [
-            {
-                "name": "blocktech:music/anotherduh",
-                "stream": true
-            }
-        ]
-    },
     "music.vs_ridley_intro":{
         "sounds": [
             {
@@ -580,30 +524,6 @@
         "sounds": [
             {
                 "name": "blocktech:music/vs_ridley_loop",
-                "stream": true
-            }
-        ]
-    },
-    "music.bubblaine":{
-        "sounds": [
-            {
-                "name": "blocktech:music/bubblaine",
-                "stream": true
-            }
-        ]
-    },
-    "music.science_is_fun":{
-        "sounds": [
-            {
-                "name": "blocktech:music/science_is_fun",
-                "stream": true
-            }
-        ]
-    },
-    "music.you_will_be_perfect":{
-        "sounds": [
-            {
-                "name": "blocktech:music/you_will_be_perfect",
                 "stream": true
             }
         ]
