@@ -19,7 +19,6 @@ jobs:
           # the PackSquash version your workflows use when a release occurs
           packsquash_version: latest
           options: |
-            pack_directory = '.'
             artifact_name = 'blockpack'
             recompress_compressed_files = true
             zip_compression_iterations = 80
