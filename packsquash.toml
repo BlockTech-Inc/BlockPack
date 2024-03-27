@@ -1,0 +1,17 @@
+artifact_name = 'blockpack'
+recompress_compressed_files = true
+zip_compression_iterations = 80
+automatic_asset_types_mask_detection = false
+allow_mods = ['OptiFine']
+zip_spec_conformance_level = 'balanced'
+
+['**/*?.ogg']
+transcode_ogg = false
+
+['**/*.png']
+maximum_width_and_height = 12288
+image_data_compression_iterations = 15
+color_quantization_target = 'none'
+
+['**/*?.{json,jem,jpm,mcmeta,bbmodel}']
+always_allow_json_comments = false
