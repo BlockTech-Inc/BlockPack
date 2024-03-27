@@ -18,8 +18,9 @@ jobs:
           # the options file format are made, but will require you to manually update
           # the PackSquash version your workflows use when a release occurs
           packsquash_version: latest
+          artifact_name: 'blockpack'
           options: |
-            artifact_name = 'blockpack'
+            pack_directory = '.'
             recompress_compressed_files = true
             zip_compression_iterations = 80
             automatic_asset_types_mask_detection = false
