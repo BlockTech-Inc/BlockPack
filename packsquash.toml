@@ -1,3 +1,4 @@
+pack_directory = '.'
 artifact_name = 'blockpack'
 recompress_compressed_files = true
 zip_compression_iterations = 80
