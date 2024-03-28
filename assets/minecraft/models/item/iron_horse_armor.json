@@ -63,6 +63,10 @@
     {
       "predicate":{"custom_model_data":20},
       "model":"blocktech:item/projector"
+    },
+    {
+      "predicate":{"custom_model_data":21},
+      "model":"blocktech:item/rcm/statue-of-moloch"
     }
   ]
 }
