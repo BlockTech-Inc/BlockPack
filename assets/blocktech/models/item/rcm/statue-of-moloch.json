@@ -3,8 +3,8 @@
 	"parent": "item/generated",
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "block/stone",
-		"particle": "block/stone"
+		"0": "blocktech:stone3x3",
+		"particle": "blocktech:stone3x3"
 	},
 	"elements": [
 		{
