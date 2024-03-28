@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/generated",
+	"ambientocclusion": false,
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "blocktech:stone3x3",
-		"particle": "blocktech:stone3x3"
+		"0": "blocktech:stonethree",
+		"particle": "blocktech:stonethree"
 	},
 	"elements": [
 		{
