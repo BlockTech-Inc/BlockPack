@@ -2,6 +2,14 @@
     "sources": [
         {
             "type": "single",
+            "resource": "blocktech:dome-sensor"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:dome-sensor-overlay"
+        },
+        {
+            "type": "single",
             "resource": "blocktech:stonetwo"
         },
         {
@@ -23,10 +31,6 @@
         {
             "type": "single",
             "resource": "blocktech:monitor/monitor_screen/scale"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:blue"
         },
         {
             "type": "single",
