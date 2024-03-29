@@ -57,10 +57,6 @@
       "model":"blocktech:item/office_props/mug"
     },
     {
-      "predicate":{"custom_model_data":19},
-      "model":"blocktech:item/dome-sensor/blue"
-    },
-    {
       "predicate":{"custom_model_data":20},
       "model":"blocktech:item/projector"
     },
