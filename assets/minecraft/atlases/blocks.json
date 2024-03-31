@@ -10,6 +10,14 @@
         },
         {
             "type": "single",
+            "resource": "blocktech:iron_block"
+        },
+        {
+            "type": "single",
+            "resource": "blocktech:polished_andesite"
+        },
+        {
+            "type": "single",
             "resource": "blocktech:stonetwo"
         },
         {
@@ -91,10 +99,6 @@
         {
             "type": "single",
             "resource": "blocktech:anvil"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:iron_block"
         },
         {
             "type": "single",
