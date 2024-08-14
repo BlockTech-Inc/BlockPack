@@ -1,0 +1,616 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/0.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "０"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/1.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "１"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/2.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "２"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/3.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "３"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/4.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "４"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/5.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "５"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/6.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "６"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/7.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "７"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/8.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "８"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/9.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "９"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/a.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ａ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/ampersand.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/asterisk.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＊"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/at.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/b.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｂ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/backslash.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＼"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/bar.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "｜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/bracket_left.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "［"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/bracket_right.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "］"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/c.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｃ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/carrot.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/colon.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "："
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/comma.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "，"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/curlybrace_left.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "｛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/curlybrace_right.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "｝"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/d.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｄ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/dollar.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/e.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｅ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/equals.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＝"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/euro.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "󰁑"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/exclamation_point.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "！"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/f.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｆ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/g.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｇ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/greater.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "󷖁"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/h.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｈ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/hashtag.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＃"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/hyphen.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "－"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/i.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｉ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/j.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｊ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/k.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｋ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/l.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｌ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/less.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "󰁒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/m.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｍ⒨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/n.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｎ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/o.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｏ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/p.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｐ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/parentheses_left.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "（"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/parentheses_right.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "）"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/percent.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "％"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/period.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "．"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/plus.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＋"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/q.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｑ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/question_mark.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "？"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/quote_double.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "󰁓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/quote_single.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＇"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/r.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｒ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/s.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｓ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/semicolon.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "；"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/slash.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "／"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/t.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｔ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/tilde.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "～"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/u.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｕ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/underscore.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "＿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/v.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｖ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/w.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｗ⒲"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/x.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｘ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/y.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｙ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "blocktech:font/ethnocentric/z.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "ｚ"
+            ]
+        }
+    ]
+}
