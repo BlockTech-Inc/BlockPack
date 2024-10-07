@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [112, 112],
 	"textures": {
-		"0": "blocktech:iron_block",
-		"1": "blocktech:polished_andesite",
+		"0": "blocktech:iron_block_7x7",
+		"1": "blocktech:polished_andesite_7x7",
 		"2": "block/hopper_inside",
 		"3": "block/hopper_top",
 		"4": "block/hopper_outside",
-		"particle": "blocktech:polished_andesite"
+		"particle": "blocktech:polished_andesite_7x7"
 	},
 	"elements": [
 		{

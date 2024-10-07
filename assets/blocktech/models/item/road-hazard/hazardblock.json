@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocktech:white_concrete",
+		"0": "block/white_concrete",
 		"2": "blocktech:hazard",
-		"particle": "blocktech:white_concrete"
+		"particle": "block/white_concrete"
 	},
 	"elements": [
 		{

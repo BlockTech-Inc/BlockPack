@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blocktech:dome-sensor",
-		"1": "blocktech:dome-sensor-overlay",
-		"particle": "blocktech:dome-sensor"
+		"0": "blocktech:dome_sensor/dome_sensor",
+		"1": "blocktech:dome_sensor/dome_sensor_overlay",
+		"particle": "blocktech:dome_sensor/dome_sensor"
 	},
 	"elements": [
 		{
