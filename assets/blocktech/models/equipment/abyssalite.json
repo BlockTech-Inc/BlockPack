@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "blocktech:abyssalite"
+            }
+        ],
+        "humanoid_leggings": [
+            {
+                "texture": "blocktech:abyssalite"
+            }
+        ]
+    }
+}
