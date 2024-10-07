@@ -67,4 +67,4 @@ $RECYCLE.BIN/
 *.icloud
 
 # assets helper
-.assets_helper
+.assets_helper/*
