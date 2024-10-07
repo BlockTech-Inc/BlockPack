@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/halfsize",
 	"textures": {
-		"0": "blocktech:projector",
-		"1": "blocktech:projector_light",
-		"particle": "blocktech:projector"
+		"0": "blocktech:projector/projector",
+		"1": "blocktech:projector/projector_light",
+		"particle": "blocktech:projector/projector"
 	},
 	"elements": [
 		{

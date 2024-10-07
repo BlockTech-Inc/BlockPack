@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "blocktech:keycard/dark_red"
+        "layer0": "blocktech:item/keycard/dark_red"
     }
 }
