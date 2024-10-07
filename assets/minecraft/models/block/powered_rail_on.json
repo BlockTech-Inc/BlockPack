@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/powered_rail_on_e",
+		"particle": "block/powered_rail_on",
+		"rail": "block/powered_rail_on"
+	},
+	"elements": [
+		{
+			"from": [0, 1, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#rail"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#rail"}
+			}
+		},
+		{
+			"from": [5, 1, 1],
+			"to": [11, 1, 15],
+			"light_emission": 3,
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 14, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 6, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 14, 0], "texture": "#missing"},
+				"up": {"uv": [5, 1, 11, 15], "texture": "#1"},
+				"down": {"uv": [5, 1, 11, 15], "texture": "#1"}
+			}
+		}
+	]
+}
