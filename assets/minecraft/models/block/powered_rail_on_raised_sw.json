@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/powered_rail_on_e",
-		"particle": "block/powered_rail_on",
-		"rail": "block/powered_rail_on"
+		"1": "block/powered_rail_on_em",
+		"particle": "block/powered_rail_on_r",
+		"rail": "block/powered_rail_on_r"
 	},
 	"elements": [
 		{
