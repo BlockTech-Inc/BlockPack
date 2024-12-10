@@ -1,20 +1,72 @@
 {
     "sources": [
         {
-            "type": "single",
-            "resource": "blocktech:dome-sensor"
+            "type": "directory",
+            "source": "dome_sensor",
+            "prefix": "dome_sensor/"
+        },
+        {
+            "type": "directory",
+            "source": "projector",
+            "prefix": "projector/"
+        },
+        {
+            "type": "directory",
+            "source": "monitor",
+            "prefix": "monitor/"
+        },
+        {
+            "type": "directory",
+            "source": "raycaster",
+            "prefix": "raycaster/"
+        },
+        {
+            "type": "directory",
+            "source": "office_props",
+            "prefix": "office_props/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "ammo",
+            "prefix": "ammo/"
+        },
+        {
+            "type": "directory",
+            "source": "scfisword",
+            "prefix": "scfisword/"
+        },
+        {
+            "type": "directory",
+            "source": "scfiaxe",
+            "prefix": "scfiaxe/"
+        },
+        {
+            "type": "directory",
+            "source": "scfibow",
+            "prefix": "scfibow/"
+        },
+        {
+            "type": "directory",
+            "source": "scficanon",
+            "prefix": "scficanon/"
+        },
+        {
+            "type": "directory",
+            "source": "scfishield",
+            "prefix": "scfishield/"
         },
         {
             "type": "single",
-            "resource": "blocktech:dome-sensor-overlay"
+            "resource": "blocktech:iron_block_7x7"
         },
         {
             "type": "single",
-            "resource": "blocktech:iron_block"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:polished_andesite"
+            "resource": "blocktech:polished_andesite_7x7"
         },
         {
             "type": "single",
@@ -22,179 +74,7 @@
         },
         {
             "type": "single",
-            "resource": "blocktech:monitor/monitor"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:monitor/monitor_screen/boat"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:monitor/monitor_screen/original"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:monitor/monitor_screen/glitch"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:monitor/monitor_screen/scale"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:raycaster/table"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/6"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/7"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/1"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/2"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/3"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/8"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/4"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/5"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:keycard/9"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:hats/abyssalite_crown"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:office_props/b"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:office_props/d"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:office_props/c"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:anvil"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:spruce_planks"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:oak_planks"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:armor/abyssalite/abyssalite_chestplate"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:armor/abyssalite/abyssalite_boots"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:armor/abyssalite/abyssalite_leggings"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:armor/abyssalite/abyssalite_helmet"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:white_concrete"
-        },
-        {
-            "type": "single",
             "resource": "blocktech:hazard"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:orange_concrete"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:sea_lantern"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:gui/advancements/notifications"
-        },
-        {
-            "type": "single",
-            "resource": "blocktech:gui/advancements/alarms"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:ammo/ammogreen"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scfisword/scfisword"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scfiaxe/sword"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scfiaxe/scfiaxe"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:ammo/ammored"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:ammo/ammo"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scfibow/scfibow"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scficanon/scficanon"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scficanon/green"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scficanon/red"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scficanon/scficanonred"
-        },
-        {
-            "type": "single",
-            "resource": "sfw:scfishield/shield"
         }
     ]
 }
