@@ -1,0 +1,54 @@
+  {
+    "model": {
+      "type": "select",
+      "property": "custom_model_data",
+      "fallback": {
+        "type": "model",
+        "model": "item/carved_pumpkin"
+      },
+      "cases": [
+        {
+          "when": "sim_boss",
+          "model": {
+            "type": "model",
+            "model": "blocktech:entity/sim/boss"
+          }
+        },
+        {
+          "when": "sim_ufo",
+          "model": {
+            "type": "model",
+            "model": "blocktech:entity/sim/ufo"
+          }
+        },
+        {
+          "when": "suits_damp",
+          "model": {
+            "type": "model",
+            "model": "blocktech:item/suits/damp"
+          }
+        },
+        {
+          "when": "suits_damp_alt1",
+          "model": {
+            "type": "model",
+            "model": "blocktech:item/suits/damp_1"
+          }
+        },
+        {
+          "when": "suits_damp_alt2",
+          "model": {
+            "type": "model",
+            "model": "blocktech:item/suits/damp_2"
+          }
+        },
+        {
+          "when": "suits_damp_alt3",
+          "model": {
+            "type": "model",
+            "model": "blocktech:item/suits/damp_3"
+          }
+        }
+      ]
+    }
+  }

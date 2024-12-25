@@ -12,6 +12,11 @@
         },
         {
             "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
             "source": "monitor",
             "prefix": "monitor/"
         },
@@ -19,6 +24,11 @@
             "type": "directory",
             "source": "raycaster",
             "prefix": "raycaster/"
+        },
+        {
+            "type": "directory",
+            "source": "suits",
+            "prefix": "suits/"
         },
         {
             "type": "directory",
