@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "abyss_watcher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/abyss_watcher"
+                }
+            },
+            {
+                "when": "crow_eye",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/crow_eye"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/ender_eye"
+        }
+    }
+}

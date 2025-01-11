@@ -1,0 +1,55 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "model": "",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "certus_quartz_crystal_charged",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/certus_quartz_crystal_charged"
+                }
+            },
+            {
+                "when": "certus_quartz_crystal",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/certus_quartz_crystal"
+                }
+            },
+            {
+                "when": "crystal_shards",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/crystal_shards"
+                }
+            },
+            {
+                "when": "eternal_crystal",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/eternal_crystal"
+                }
+            },
+            {
+                "when": "fluix_crystal",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/fluix_crystal"
+                }
+            },
+            {
+                "when": "subzero_crystal_shard",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/subzero_crystal_shard"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/amethyst_shard"
+        }
+    }
+}

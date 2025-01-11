@@ -1,0 +1,118 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "projector",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/office_props/projector"
+                }
+            },
+            {
+                "when": "road_cone",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/road_hazard/road_cone"
+                }
+            },
+            {
+                "when": "hazardblock",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/road_hazard/hazardblock"
+                }
+            },
+            {
+                "when": "hazardblock_lights",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/road_hazard/hazardblock_lights"
+                }
+            },
+            {
+                "when": "statue_of_moloch",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/rcm/statue_of_moloch"
+                }
+            },
+            {
+                "when": "raycaster_table",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/raycaster/table"
+                }
+            },
+            {
+                "when": "mug",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/office_props/mug"
+                }
+            },
+            {
+                "when": "clipboard",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/office_props/clipboard"
+                }
+            },
+            {
+                "when": "clipboard_pen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/office_props/clipboard_pen"
+                }
+            },
+            {
+                "when": "calculator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/office_props/calculator"
+                }
+            },
+            {
+                "when": "monitor_scale",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/monitor/monitor_scale"
+                }
+            },
+            {
+                "when": "monitor_intro",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/monitor/monitor_intro"
+                }
+            },
+            {
+                "when": "monitor_glitch",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/monitor/monitor_glitch"
+                }
+            },
+            {
+                "when": "monitor_boat",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/monitor/monitor_boat"
+                }
+            },
+            {
+                "when": "core_ring",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/core_ring"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_horse_armor"
+        }
+    },
+    "hand_animation_on_swap": false
+}

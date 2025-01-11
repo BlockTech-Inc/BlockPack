@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "black_apple",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/black_apple"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_apple"
+        }
+    }
+}

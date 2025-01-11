@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "crying_obsidian_shard",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/crying_obsidian_shard"
+                }
+            },
+            {
+                "when": "obsidian_shard",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/obsidian_shard"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/prismarine_shard"
+        }
+    }
+}

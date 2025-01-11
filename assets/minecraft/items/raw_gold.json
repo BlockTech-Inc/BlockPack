@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "zanite_gemstone",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "blocktech:item/item/zanite_gemstone"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "item/raw_gold"
+        }
+    }
+}
