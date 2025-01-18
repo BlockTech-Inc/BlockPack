@@ -1,0 +1,124 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "3d_editor_kitchen_wineglass",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/wineglass"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_wineglass_filled",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/wineglass_filled"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_normalglass",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/normalglass"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_normalglass_filled",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/normalglass_filled"
+                }
+            },
+            {
+                "when": "3d_editor_bathroom_sink_filled",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/bathroom/sink_filled"
+                }
+            },
+            {
+                "when": "3d_editor_bathroom_sink_running",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/bathroom/sink_runnin"
+                }
+            },
+            {
+                "when": "3d_editor_bathroom_mirror",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/bathroom/mirror"
+                }
+            },
+            {
+                "when": "3d_editor_bathroom_toilet_open",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/bathroom/toilet_open"
+                }
+            },
+            {
+                "when": "3d_editor_garden_fountain",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/garden/fountain"
+                }
+            },
+            {
+                "when": "3d_editor_plants_bonsai",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/plants/bonsai"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_carafe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/carafe"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_carafe_water",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/carafe_water"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_carafe_orange",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/carafe_orange"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_carafe_yellow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/carafe_yellow"
+                }
+            },
+            {
+                "when": "3d_editor_kitchen_carafe_purple",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/kitchen/carafe_purple"
+                }
+            },
+            {
+                "when": "3d_editor_bottles_zafiroanejo",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "buildmodeone:3d_editor/bottles/zafiroanejo"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/white_stained_glass"
+        }
+    }
+}
