@@ -577,5 +577,12 @@
                 "stream": true
             }
         ]
+    },
+    "duh":{
+        "sounds": [
+            {
+                "name": "blocktech:duh"
+            }
+        ]
     }
 }
