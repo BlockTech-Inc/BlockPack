@@ -578,10 +578,38 @@
             }
         ]
     },
-    "duh":{
+    "instrument.duh.a":{
         "sounds": [
             {
-                "name": "blocktech:duh"
+                "name": "blocktech:instrument/duh/a"
+            }
+        ]
+    },
+    "instrument.duh.d":{
+        "sounds": [
+            {
+                "name": "blocktech:instrument/duh/d"
+            }
+        ]
+    },
+    "instrument.duh.e":{
+        "sounds": [
+            {
+                "name": "blocktech:instrument/duh/e"
+            }
+        ]
+    },
+    "instrument.duh.f":{
+        "sounds": [
+            {
+                "name": "blocktech:instrument/duh/f"
+            }
+        ]
+    },
+    "instrument.duh.g":{
+        "sounds": [
+            {
+                "name": "blocktech:instrument/duh/g"
             }
         ]
     }

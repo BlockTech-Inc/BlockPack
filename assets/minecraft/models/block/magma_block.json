@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all_e_3",
-  "textures": {
-    "texture": "minecraft:block/magma_r",
-    "e": "minecraft:block/magma_em"
-  }
-}
