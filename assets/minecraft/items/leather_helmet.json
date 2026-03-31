@@ -8,7 +8,12 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "blocktech:item/dome_sensor",
-                    "tints": []
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": 16777215
+                        }
+                    ]
                 }
             }
         ],

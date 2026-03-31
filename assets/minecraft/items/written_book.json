@@ -4,23 +4,23 @@
         "property": "minecraft:custom_model_data",
         "cases": [
             {
-                "when": "crying_obsidian_shard",
+                "when": "adv_alarms",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "blocktech:item/item/crying_obsidian_shard"
+                    "model": "blocktech:gui/advancements/alarms"
                 }
             },
             {
-                "when": "obsidian_shard",
+                "when": "adv_notif",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "blocktech:item/item/obsidian_shard"
+                    "model": "blocktech:gui/advancements/notifications"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "item/prismarine_shard"
+            "model": "minecraft:item/written_book"
         }
     }
 }
