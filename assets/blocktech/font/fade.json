@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"file": "blocktech:font/white.png",
+			"chars": [
+				"\uE01F"
+			],
+			"height": 1024,
+			"ascent": 512,
+			"type": "bitmap"
+		}
+	]
+}
